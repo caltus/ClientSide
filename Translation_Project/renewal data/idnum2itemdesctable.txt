@@ -72156,7 +72156,7 @@ Applicable Job : ^777777Every Job^000000
 #
 
 18534#
-a colorful mask that hide owner's identification,
+A colorful mask that hide owner's identification,
 there's a rumor that it make feel exciting when wears.
 STR + 1, ATK + 5%, Delay decrease 1% , refined will be MAXHP + 100 per 1
 Skill 'Mamer Night', 'Throwing money' will increase Damage 20% Αυ.
@@ -72191,8 +72191,7 @@ Applicable Job : ^777777All Jobs^000000
 #
 
 18538#
-
-once you have a mind to overcome sweet allure, can have power.
+Once you have a mind to overcome sweet allure, can have power.
 MDEF + 3. attck endurance +1% from Evil type, Angel type monster attack
 can have Holy Water whe killing angel monster, and WaterOf Darkness from evil monster
 Class : ^777777Headgear^000000 DEF : ^7777773^000000
@@ -72203,11 +72202,10 @@ Applicable Job : ^777777Every Job^000000
 #
 
 18539#
-
-a black cap with skull.
+A black cap with skull.
 MATK + 2%.
-if refined is over 5 ,add MATK + 3%, if refined is over 7 , add additional 3%.
-you can reduce consumption of skill sp 3% once using with Elven Ears .
+If refined is over 5 ,add MATK + 3%, if refined is over 7 , add additional 3%.
+You can reduce consumption of skill sp 3% once using with Elven Ears .
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
 Location: ^777777Upper ^000000
@@ -72217,8 +72215,7 @@ Applicable Job : ^777777Every Job^000000
 #
 
 18540#
-
-a mask used from a warrior which was called as Devil in Past.
+A mask used from a warrior which was called as Devil in Past.
 ASPD + 1%, every 2sec, SP -1.
 Class : ^777777Headgear^000000 DEF : ^7777773^000000
 Location: ^777777Middle-low ^000000
@@ -72228,9 +72225,9 @@ Applicable Job : ^777777Every Job^000000
 #
 
 18541#
-a hat for hunter or adventure .
+A hat for hunter or adventure .
 DEX + 2.
-increase critical damage 10% , addional damage 5% with sharp arrow, if hat refined is over 7, can have additional 5%.
+Increase critical damage 10% , addional damage 5% with sharp arrow, if hat refined is over 7, can have additional 5%.
 Class : ^777777head gear^000000
 Defense : ^7777771^000000
 Location: ^777777Upper ^000000
@@ -72240,9 +72237,9 @@ Applicable Job : ^777777Every Job^000000
 #
 
 18542#
-coif for important event in Catherdral.
-increase recovery effect 5% .
-when using recovery kill to others, the effect increses 2% and if refined over 7 , can get additional 3%.
+Coif for important event in Catherdral.
+Increase recovery effect 5% .
+When using recovery kill to others, the effect increses 2% and if refined over 7 , can get additional 3%.
 Class : ^777777head gear^000000
 Defense : ^77777710^000000
 Location: ^777777Upper-mid ^000000
@@ -72264,13 +72261,13 @@ Applicable Job : ^777777Every Job^000000
 18550#
 The holy wing is gossiped about its godly power.
 All State + 2.
-tolerance for all type of element by 5%.
-recover HP 2% and SP 1% in every 10 sec.
+Tolerance for all type of element by 5%.
+Recover HP 2% and SP 1% in every 10 sec.
 Class : ^777777Headgear^000000
 Defense : ^7777773^000000
 Location: ^777777upper ^000000
 Weight : ^77777730^000000
-Rq Lv : ^77777730^000000
+Required Level :  ^77777730^000000
 Applicable Job : ^777777Every Job^000000
 #
 
@@ -72286,10 +72283,10 @@ Applicable Job : ^777777All Jobs^000000
 #
 
 18555#
-a general's head gear who fight against dragons
+A general's head gear who fight against dragons
 MDEF + 3.
-increase physical ,magic damage 5% to dragon type monster.
-increase registance 5%.
+Increase physical ,magic damage 5% to dragon type monster.
+Increase registance 5%.
 can have treasure box at regular drop rate when hunting dragon monster.
 Class : ^777777head gear^000000
 Defense : ^7777773^000000
