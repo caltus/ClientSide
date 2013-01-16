@@ -15529,7 +15529,7 @@ If refined to +9 or higher and base stats (without modifiers) is equal to 90 or 
 -Dex -> Ranged Attack +10
 -Luk -> Inflict 15% more critical attack.
 Class : ^777777Garment^000000
-Defense: ^77777720^000000
+Defense : ^77777720^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -18084,7 +18084,7 @@ All Stats +1.
 Increases casting time by 10%.
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -18097,7 +18097,7 @@ enables its wearer to amplify his hidden powers.
 Critical +10%
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -18109,7 +18109,7 @@ An ancient glove.
 DEX + 4
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -18123,7 +18123,7 @@ wearer's defenses.
 DEF +5 , MDEF +5
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777775^000000
+Defense : ^7777775^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -18135,7 +18135,7 @@ An ancient necklace.
 Vit +4
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -18147,7 +18147,7 @@ An ancient ring.
 STR + 4
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -18159,7 +18159,7 @@ An ancient rosary.
 LUK + 4, MDEF +5
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -30659,7 +30659,7 @@ If you think you hear it meow or feel it move, it's just an illusion.
 MDEF + 15.
 +30% defense against Curse status.
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Position: ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^777777None^000000
@@ -30673,7 +30673,7 @@ ASPD and Casting Speed + 3%
 INT + 1.
 Cannot be traded or dropped, but can be placed in Kafra Storage.
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^77777710^000000
@@ -30688,7 +30688,7 @@ Reduce damage from Brute class monsters by 5%.
 Cannot be traded or dropped, but can be placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Lower^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Novices can't smoke, but as for everyone else...^000000
@@ -30700,7 +30700,7 @@ FLEE + 5.
 Cannot be traded or dropped, but can be placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
@@ -30713,7 +30713,7 @@ AGI + 1,
 DEX + 1.
 Cannot be dropped or traded, but can be placed in Kafra Storage.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
@@ -30733,7 +30733,7 @@ Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -30748,8 +30748,8 @@ Reduce 5% of damage taken from Brute monsters.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Upper^000000
+Defense : ^7777771^000000
+Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Requirement: ^777777None^000000
 Applicable Job : ^777777Every Job^000000
@@ -30761,7 +30761,7 @@ This may seem like inappropriate, risque attire, but only if you travel in those
 INT + 2.
 Cannot be traded or dropped,but can be placed in Kafra Storage.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -30772,7 +30772,7 @@ A headgear fashioned after the horns of a goat that captures the attention of on
 It has a certain religious meaning to some people.
 STR + 2.
 Class : ^777777Headgear^000000
-Defense: ^7777775^000000
+Defense : ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Applicable Job : ^777777Swordman and
@@ -30788,8 +30788,8 @@ Reflects 5% physical damage.
 Impossible to Upgrade Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
-Location: ^777777Upper^000000
+Defense : ^7777771^000000
+Location : ^777777Upper^000000
 Weight : ^77777715^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Acolyte Class^000000
@@ -30803,7 +30803,7 @@ This headgear's upgrade level affects the percentage of Cast Time reduction.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -30820,7 +30820,7 @@ Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Level Requirement: ^77777730^000000
 Applicable Job : ^777777Every
@@ -30835,7 +30835,7 @@ Impossible to Upgrade.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777710^000000
@@ -30851,7 +30851,7 @@ MHP and SP +50
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^77777710^000000
@@ -30863,7 +30863,7 @@ A cute hat shaped like a Deviruchi that brings happiness to its wearer and onloo
 STR + 1,
 INT + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777780^000000
 Level Requirement: ^77777764^000000
@@ -30877,7 +30877,7 @@ Cannot be upgraded.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^77777730^000000
@@ -30893,7 +30893,7 @@ Increases Variable Cast Time by 25%.
 Cannot be Dropped, or Traded,
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777776^000000
+Defense : ^7777776^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^7777770^000000
@@ -30907,7 +30907,7 @@ Cannot be upgraded.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -30921,7 +30921,7 @@ Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -30936,7 +30936,7 @@ Cannot be upgraded.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -30952,7 +30952,7 @@ Indestructible.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level : ^77777730^000000
@@ -30965,7 +30965,7 @@ DEX + 1, FLEE + 2.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -30978,7 +30978,7 @@ Has a chance of auto-casting Level 2 Deluge or Level 3 Waterball with each attac
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level : ^77777730^000000
@@ -30991,7 +30991,7 @@ Decreases damage from Dragon Class monsters by 5%.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777775^000000
+Defense : ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level : ^77777750^000000
@@ -31007,7 +31007,7 @@ Cannot be upgraded.
 Cannot be Dropped,or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
@@ -31018,7 +31018,7 @@ Applicable Job : ^777777Every Job^000000
 A hat woven out of yarn that keeps the head warm, but is mostly worn because of its fashionable look.
 LUK + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
@@ -31077,7 +31077,7 @@ Applicable Job : ^777777Every Job^000000
 A crude looking hat that lends a look of cheerfulness and agility, and is coveted by most skilled magic users.
 INT + 2, SP + 150.
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Position: ^777777Upper^000000
 Weight : ^77777730^000000
 Applicable Job : ^777777Mage Classes, and Soul Linker Job^000000
@@ -31090,7 +31090,7 @@ Reduce Demi-Human monster damage by 5%.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Location: ^777777Upper, Mid^000000
+Location : ^777777Upper, Mid^000000
 Defense : ^7777778^000000
 Weight : ^777777300^000000
 Level Requirement: ^77777750^000000
@@ -31106,8 +31106,8 @@ Impossible to Upgrade.
 Cannot be Dropped, or Tradable.
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Location: ^777777Upper, Mid^000000
-Defense: ^7777772^000000
+Location : ^777777Upper, Mid^000000
+Defense : ^7777772^000000
 Weight : ^77777740^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Every Job^000000
@@ -31134,7 +31134,7 @@ Cannot be upgraded.
 Cannot be Dropped, or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper, Mid, Lower^000000
 Weight : ^77777710^000000
 Required Level : ^77777710^000000
@@ -31148,7 +31148,7 @@ Reduces damage from Demi-Human monsters by 10%.
 MDEF + 5
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
-Defense: ^7777779^000000
+Defense : ^7777779^000000
 Location : ^777777Upper^000000
 Weight : ^7777770^000000
 Applicable Job : ^777777Every Job^000000
@@ -31161,7 +31161,7 @@ Has a low chance to cast Lvl 1
 Recovery when its wearer receives physical damage.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
-Defense: ^7777771^000000
+Defense : ^7777771^000000
 Location : ^777777Lower^000000
 Weight : ^7777770^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -31173,7 +31173,7 @@ A headgear made in honor of the legendary archer known for shooting an apple per
 DEX + 4
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
-Defense: ^777777^000000
+Defense : ^777777^000000
 Location : ^777777Upper^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -31187,7 +31187,7 @@ For some, it is an incredible turn-on.
 INT + 1
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -31200,7 +31200,7 @@ An ancient brooch.
 AGI + 4
 This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -31442,7 +31442,7 @@ When defeating a monster, it can get extra Zeny with a set probability.
 Cannot be upgraded.
 Class : ^777777Headgear^000000
 Defense : ^7777773^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^777777100^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777All Jobs^000000
@@ -32925,7 +32925,7 @@ Recover HP by 1% in every 10 seconds.
 If refined higher than +7, increase FLEE + 2.
 If refined higher than +9, recover SP by 1% in every 10 seconds.
 Class : ^777777Headgear^000000
-Defense: ^777777-7^000000
+Defense : ^777777-7^000000
 Head Position: ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777740^000000
@@ -32940,7 +32940,7 @@ STR+ 1, INT+ 1, VIT+ 2, DEX+ 2, AGI+ 2, LUK+ 2.
 MDEF+1.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -32953,7 +32953,7 @@ STR+ 2, INT+ 1, VIT+ 1, DEX+ 2, AGI+ 2, LUK+ 2.
 MDEF+1.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -32966,7 +32966,7 @@ STR+ 1, INT+ 2, VIT+ 1, DEX+ 2, AGI+ 2, LUK+ 2.
 MDEF+1.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -32979,7 +32979,7 @@ All Stats + 3.
 MDEF+1.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -32989,8 +32989,8 @@ Applicable Job : ^777777Every Job^000000
 
 Enhanced version of Army Cap from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 10%
-Item Class : ^777777Headgear^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000 Weight : ^77777710^000000
+Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^77777710^000000
 Required Level : ^77777760^000000
 Applicable Job : ^777777All Jobs^000000
 #
@@ -32998,8 +32998,8 @@ Applicable Job : ^777777All Jobs^000000
 5861#
 Enhanced version of Kafra Band from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 10%
-Item Class : ^777777Headgear^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000 Weight : ^77777710^000000
+Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^77777710^000000
 Required Level : ^77777760^000000
 Applicable Job : ^777777All Jobs^000000
 #
@@ -33007,8 +33007,8 @@ Applicable Job : ^777777All Jobs^000000
 5862#
 Enhanced version of Sweet Gent from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 10%
-Item Class : ^777777Headgear^000000 Defense: ^7777770^000000
-Location: ^777777Upper ^000000 Weight : ^77777710^000000
+Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000 Weight : ^77777710^000000
 Required Level : ^77777760^000000
 Applicable Job : ^777777All Jobs^000000
 #
@@ -33016,8 +33016,8 @@ Applicable Job : ^777777All Jobs^000000
 5863#
 Enhanced version of Zoro Mask from the Midgard Crowd Control event.
 Reduce damage from Demi-Human by 2%
-Item Class : ^777777Headgear^000000 Defense: ^7777772^000000
-Location: ^777777Mid ^000000 Weight : ^77777710^000000
+Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
+Location : ^777777Mid ^000000 Weight : ^77777710^000000
 Required Level : ^7777770^000000
 Applicable Job : ^777777All Jobs^000000
 #
@@ -65467,7 +65467,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -65489,7 +65489,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -66248,7 +66248,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Level Requirement: ^77777730^000000
 Applicable Job : ^777777Every Job except Novice^000000
@@ -66270,7 +66270,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777778^000000
-Location: ^777777Upper, Mid^000000
+Location : ^777777Upper, Mid^000000
 Weight : ^777777300^000000
 Level Requirement: ^77777750^000000
 Applicable Job : ^777777Swordman and
@@ -66293,7 +66293,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777778^000000
-Location: ^777777Upper, Mid^000000
+Location : ^777777Upper, Mid^000000
 Weight : ^777777300^000000
 Level Requirement: ^77777750^000000
 Applicable Job : ^777777Swordman and
@@ -66316,7 +66316,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^77777710^000000
+Defense : ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level : ^77777750^000000
@@ -66339,7 +66339,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^77777710^000000
+Defense : ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level : ^77777750^000000
@@ -66357,7 +66357,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -66374,7 +66374,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -66393,7 +66393,7 @@ dropped or traded,
 but can be placed
 in Kafra Storage.
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
@@ -66413,7 +66413,7 @@ dropped or traded,
 but can be placed
 in Kafra Storage.
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
@@ -66435,7 +66435,7 @@ dropped, but can be
 placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
@@ -66457,7 +66457,7 @@ dropped, but can be
 placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
@@ -66480,7 +66480,7 @@ dropped, but can be
 placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Lower^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Novices can't smoke, but as for everyone else...^000000
@@ -66502,7 +66502,7 @@ dropped, but can be
 placed in Kafra Storage.
 Impossible to Upgrade
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Lower^000000
 Weight : ^77777710^000000
 Applicable Job : ^777777Novices can't smoke, but as for everyone else...^000000
@@ -66526,7 +66526,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -66550,7 +66550,7 @@ or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777Upper^000000
+Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -66601,7 +66601,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777778^000000
+Defense : ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level : ^77777730^000000
@@ -66623,7 +66623,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777778^000000
+Defense : ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level : ^77777730^000000
@@ -66682,7 +66682,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -66706,7 +66706,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -66763,8 +66763,8 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
+Defense : ^7777773^000000
+Location : ^777777Upper^000000
 Weight : ^77777715^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Acolyte Class^000000
@@ -66785,8 +66785,8 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
-Location: ^777777Upper^000000
+Defense : ^7777773^000000
+Location : ^777777Upper^000000
 Weight : ^77777715^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Acolyte Class^000000
@@ -66806,8 +66806,8 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
-Location: ^777777Upper, Mid^000000
+Defense : ^7777772^000000
+Location : ^777777Upper, Mid^000000
 Weight : ^77777740^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Every Job^000000
@@ -66828,7 +66828,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -66850,7 +66850,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -66869,7 +66869,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^77777730^000000
@@ -66888,7 +66888,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^77777730^000000
@@ -66910,7 +66910,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level : ^77777730^000000
@@ -66932,7 +66932,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level : ^77777730^000000
@@ -66956,7 +66956,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -66980,7 +66980,7 @@ Cannot be Dropped,
 or Tradable
 Can be placed in Kafra Storage
 Class : ^777777Headgear^000000
-Defense: ^7777770^000000
+Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
@@ -66999,7 +66999,7 @@ mostly worn because
 of its fashionable
 look. LUK + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
@@ -67018,7 +67018,7 @@ mostly worn because
 of its fashionable
 look. LUK + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
@@ -67069,7 +67069,7 @@ to its wearer and
 onlookers. STR + 1,
 INT + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777780^000000
 Level Requirement: ^77777764^000000
@@ -67088,7 +67088,7 @@ to its wearer and
 onlookers. STR + 1,
 INT + 1.
 Class : ^777777Headgear^000000
-Defense: ^7777774^000000
+Defense : ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777780^000000
 Level Requirement: ^77777764^000000
@@ -67109,7 +67109,7 @@ just an illusion.
 MDEF +15. +30% defense
 against Curse status.
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777750^000000
 Level Requirement: ^777777None^000000
@@ -67130,7 +67130,7 @@ just an illusion.
 MDEF +15. +30% defense
 against Curse status.
 Class : ^777777Headgear^000000
-Defense: ^7777773^000000
+Defense : ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777750^000000
 Level Requirement: ^777777None^000000
@@ -67182,7 +67182,7 @@ coveted by most
 skilled magic users.
 INT + 2, SP +150.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777730^000000
 Applicable Job : ^777777Mage Classes, Soul Linker Job^000000
@@ -67201,7 +67201,7 @@ coveted by most
 skilled magic users.
 INT + 2, SP +150.
 Class : ^777777Headgear^000000
-Defense: ^7777772^000000
+Defense : ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777730^000000
 Applicable Job : ^777777Mage Classes, and Soul Linker Job^000000
@@ -70183,7 +70183,7 @@ A box that contains
 Description:
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -70203,7 +70203,7 @@ A box that contains
 Description:
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -70223,7 +70223,7 @@ A box that contains
 Description:
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -70297,7 +70297,7 @@ If refined to +9 or higher and base stats (without modifiers) is equal to 90 or 
 -Dex -> Ranged Attack +10
 -Luk -> Cri +15
 Class : ^777777Garment^000000
-Defense: ^77777720^000000
+Defense : ^77777720^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -70317,7 +70317,7 @@ Costume-Butterfly Ears
 Description:
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
 Class : ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -70331,7 +70331,7 @@ A box that contains
 Description:
 You can look like you just rolled off the assembly line with these bolt-on ear accessories.
 Class : ^777777Middle^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -71082,8 +71082,8 @@ INT + 1, DEX + 1, MDEF +5.
 If refined to +7 or higher, increases Heal effectieness by 5%.
 If refined to +9 or higher, Matk +5 and increases Heal effectiveness by 5%.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777775^000000
+Location : ^777777Upper^000000
+Defense : ^7777775^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -71094,8 +71094,8 @@ STR + 2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
 If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^77777710^000000
+Location : ^777777Upper^000000
+Defense : ^77777710^000000
 Weight : ^77777750^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -72028,7 +72028,7 @@ you might have a luck soon.
 LUK + 1, MaxSP + 20.
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777lower ^000000
+Location : ^777777lower ^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777Every Job^000000
@@ -72040,8 +72040,8 @@ STR + 2. Attack +2% to all monsters.
 If refined to +7 or higher, Critical +10%.
 If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^77777710^000000
+Location : ^777777Upper^000000
+Defense : ^77777710^000000
 Weight : ^77777750^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -72077,7 +72077,7 @@ During Event All Stats + 2, MDEF + 5, and
 Get bonus effect if it is equipped with Smile,Hahoe mask,Alarm mask, Phantom of opera.
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
-Location: ^777777upper ^000000
+Location : ^777777upper ^000000
 Weight : ^77777750^000000
 Required level : ^77777745^000000
 Applicable Job : ^777777Every Job^000000
@@ -72102,7 +72102,7 @@ Wild rose hat with rapid movement
 MaxHP - 10%, ASPD + 3%.
 With 'Fish in Mouth', Adds a chance to automatically cast [Greed]
 Class : ^777777Headgear^000000
-Location: ^777777upper-mid ^000000
+Location : ^777777upper-mid ^000000
 Defense : ^7777775^000000
 Weight : ^77777750^000000
 Req Lev : ^77777730^000000
@@ -72113,7 +72113,7 @@ Applicable Job : ^777777Every Job^000000
 Desperate mask of thanatos,cute but evasion
 LUK - 5, FLEE + 4.
 Class : ^777777Headgear^000000
-Location: ^777777Middle-low ^000000
+Location : ^777777Middle-low ^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Req Lev : ^77777730^000000
@@ -72125,7 +72125,7 @@ A doll revived permeter turtle.
 increase Solider, permeter, freezer, assulter ,heater, turtle general damage 20%
 Class : ^777777head gear^000000
 Defense : ^7777778^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^777777100^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72136,7 +72136,7 @@ A cute hairband with an outstanding blue-laced ribbon.
 INT + 2
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^77777710^000000
 Required level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72148,7 +72148,7 @@ MDEF + 3.
 Increases Physical and magical damage to Insect type monsters by 5%
 Increases Resistance to Insect type monsters by 5%
 Class : ^777777Headgear^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777773^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
@@ -72162,7 +72162,7 @@ STR + 1, ATK + 5%, Delay decrease 1% , refined will be MAXHP + 100 per 1
 Skill 'Mamer Night', 'Throwing money' will increase Damage 20% 증.
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
-Location: ^777777Upper mid ^000000
+Location : ^777777Upper mid ^000000
 Weight : ^777777100^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72195,7 +72195,7 @@ Once you have a mind to overcome sweet allure, can have power.
 MDEF + 3. attck endurance +1% from Evil type, Angel type monster attack
 can have Holy Water whe killing angel monster, and WaterOf Darkness from evil monster
 Class : ^777777Headgear^000000 DEF : ^7777773^000000
-Location: ^777777Middle ^000000
+Location : ^777777Middle ^000000
 Weight : ^77777730^000000
 Required Level : ^7777770^000000
 Applicable Job : ^777777Every Job^000000
@@ -72208,7 +72208,7 @@ If refined is over 5 ,add MATK + 3%, if refined is over 7 , add additional 3%.
 You can reduce consumption of skill sp 3% once using with Elven Ears .
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^77777740^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72218,7 +72218,7 @@ Applicable Job : ^777777Every Job^000000
 A mask used from a warrior which was called as Devil in Past.
 ASPD + 1%, every 2sec, SP -1.
 Class : ^777777Headgear^000000 DEF : ^7777773^000000
-Location: ^777777Middle-low ^000000
+Location : ^777777Middle-low ^000000
 Weight : ^777777100^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72230,7 +72230,7 @@ DEX + 2.
 Increase critical damage 10% , addional damage 5% with sharp arrow, if hat refined is over 7, can have additional 5%.
 Class : ^777777head gear^000000
 Defense : ^7777771^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
 Applicable Job : ^777777Every Job^000000
@@ -72242,7 +72242,7 @@ Increase recovery effect 5% .
 When using recovery kill to others, the effect increses 2% and if refined over 7 , can get additional 3%.
 Class : ^777777head gear^000000
 Defense : ^77777710^000000
-Location: ^777777Upper-mid ^000000
+Location : ^777777Upper-mid ^000000
 Weight : ^77777750^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72252,7 +72252,7 @@ Applicable Job : ^777777Every Job^000000
 a cute hairpin looks like blue butterfly.
 Class : ^777777head gear^000000
 Defense : ^7777773^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72265,7 +72265,7 @@ Tolerance for all type of element by 5%.
 Recover HP 2% and SP 1% in every 10 sec.
 Class : ^777777Headgear^000000
 Defense : ^7777773^000000
-Location: ^777777upper ^000000
+Location : ^777777upper ^000000
 Weight : ^77777730^000000
 Required Level :  ^77777730^000000
 Applicable Job : ^777777Every Job^000000
@@ -72290,7 +72290,7 @@ Increase registance 5%.
 can have treasure box at regular drop rate when hunting dragon monster.
 Class : ^777777head gear^000000
 Defense : ^7777773^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Weight : ^77777720^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777Every Job^000000
@@ -72458,8 +72458,8 @@ For every upgrade 5 and higher add 1% more damage to Boss Class monsters.
 Increase Damage to Boss Type Monster by additional 5%.
 If Lord of the Dead Helm +11 negates the damage from normal Monsters and Players.
 ^ff0000The Abysmal Knight Card effect is only effective once.^000000
-Location: ^777777Upper Middle^000000
-Defense: ^77777710^000000
+Location : ^777777Upper Middle^000000
+Defense : ^77777710^000000
 Weight : ^777777100^000000
 Required Level : ^7777770^000000
 Applicable Job : ^777777Every Job^000000
@@ -72490,8 +72490,8 @@ Incrase Skill cost by 1 SP for Raging Quadruple Blow and Raging Thrust.
 Increase Damage of Raging Trifecta Blow and Raging Thrust by 5%.
 Increase Damage of Glacier Fist and Chain Crush Combo by 3%.
 Increases SP consumption of skills by 10 which reduces by 1 SP per refine level up to +10
-Location: ^777777Middle^000000
-Defense: ^7777770^000000
+Location : ^777777Middle^000000
+Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
 Applicable Job : ^777777All Jobs^000000
@@ -72796,8 +72796,8 @@ STR + 2, Vit +2, LUK + 1
 Cannot be Damaged
 Slot : ^7777771^000000
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777773^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
 Weight : ^77777740^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -72809,8 +72809,8 @@ INT + 2, DEX + 2, AGI + 1
 Cannot be Damaged
 Slot : ^7777771^000000
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777773^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
 Weight : ^77777740^000000
 Required Level : ^7777771^000000
 Applicable Job : ^777777Every Job^000000
@@ -72821,8 +72821,8 @@ This Spooky mask of Death. You are too freaked out to put it actually over your 
 Adds +3 to Flee while worn.
 Slot : ^7777771^000000
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777772^000000
+Location : ^777777Upper^000000
+Defense : ^7777772^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72831,8 +72831,8 @@ Applicable Job : ^777777Every Job^000000
 18615#
 Injured_Eyepatch
 Class : ^777777Headgear^000000
-Location: ^777777Middle^000000
-Defense: ^7777772^000000
+Location : ^777777Middle^000000
+Defense : ^7777772^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -72842,8 +72842,8 @@ Applicable Job : ^777777All Except Novice^000000
 Your parents forgot to tell you that sticking your tongue out at people was rude, and this is the result. Sometimes you just gotta be you!
 Cannot be Damaged
 Class : ^777777Headgear^000000
-Location: ^777777Lower^000000
-Defense: ^7777770^000000
+Location : ^777777Lower^000000
+Defense : ^7777770^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -72854,8 +72854,8 @@ Applicable Job : ^777777All Except Novice^000000
 Onigiri is a delicacy found only on the island nation of Amatsu. Various flavors accentuate the slightly sweet rice.
 Increases damage inflicted and decreases damage taken from monsters in the Amatsu area by 5%.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777770^000000
+Location : ^777777Upper^000000
+Defense : ^7777770^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72864,8 +72864,8 @@ Applicable Job : ^777777Every Job^000000
 18618#
 Look like a hunk o' burnin' love with this retro hairstyle wig.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777778^000000
+Location : ^777777Upper^000000
+Defense : ^7777778^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -72876,8 +72876,8 @@ Applicable Job : ^777777All Except Novice^000000
 A bandana that can be worn to disguise yourself one of the common folk.
 Has a chance of auto-casting Gank while physically attacking.
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777771^000000
+Location : ^777777Upper^000000
+Defense : ^7777771^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777All Except Novice^000000
@@ -72886,8 +72886,8 @@ Applicable Job : ^777777All Except Novice^000000
 18620#
 An eyepatch for those who would not like to look lovelier than a pirate.
 Class : ^777777Headgear^000000
-Location: ^777777Middle^000000
-Defense: ^7777772^000000
+Location : ^777777Middle^000000
+Defense : ^7777772^000000
 Weight : ^7777775^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72910,8 +72910,8 @@ MaxHP +300
 Enables use of Level 1 Frost Driver
 If refined to +7 or higher, Enables use of level 5 Frost Driver
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777772^000000
+Location : ^777777Upper^000000
+Defense : ^7777772^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
 Applicable Job : ^777777Every Job^000000
@@ -72925,8 +72925,8 @@ If refined to +7 or higher, has a low chance of adding 100% Aspd for 7 seconds.
 ^FF0000Created by Allysia^000000
 ^FFFFFF_^000000
 Class : ^777777Headgear^000000
-Location: ^777777Upper^000000
-Defense: ^7777776^000000
+Location : ^777777Upper^000000
+Defense : ^7777776^000000
 Weight : ^77777750^000000
 Required Level : ^7777770^000000
 Applicable Job : ^777777All except novice^000000
@@ -73186,7 +73186,7 @@ Applicable Job : ^777777전직업 장착가능^000000
 A brightly shining sun that floats above your head.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73197,7 +73197,7 @@ Applicable Job : ^777777Every Job^000000
 Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Middle^000000
+Location : ^777777Middle^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73208,7 +73208,7 @@ Applicable Job : ^777777Every Job^000000
 You can look like you just rolled off the assembly line with these bolt-on ear accessories.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Middle^000000
+Location : ^777777Middle^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73237,7 +73237,7 @@ Applicable Job : ^777777All Jobs^000000
 A simple bird beak. Wearing this won't make you less fearful of things.
 ^ff0000This item is account bound^000000
 Class : ^777777Lower^000000
-Location: ^777777Lower ^000000
+Location : ^777777Lower ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73248,7 +73248,7 @@ Applicable Job : ^777777Every Job^000000
 A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Lower ^000000
+Location : ^777777Lower ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73259,7 +73259,7 @@ Applicable Job : ^777777Every Job^000000
 A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Lower ^000000
+Location : ^777777Lower ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73270,7 +73270,7 @@ Applicable Job : ^777777Every Job^000000
 A newly hatched baby bird chirps it's tunes on a twig of dreams.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73281,7 +73281,7 @@ Applicable Job : ^777777Every Job^000000
 A roosters dignified comb. But don't be fooled while wearing this or the yolk's on you!
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73292,7 +73292,7 @@ Applicable Job : ^777777Every Job^000000
 Share your happiness with others with this brightly colored rainbow.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73303,7 +73303,7 @@ Applicable Job : ^777777Every Job^000000
 A dark thunder cloud that rivals the bolts created by Thor... well maybe not.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73314,7 +73314,7 @@ Applicable Job : ^777777Every Job^000000
 When it rains it pours. Especially when it's only raining above your head.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73325,7 +73325,7 @@ Applicable Job : ^777777Every Job^000000
 A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -73336,7 +73336,7 @@ Applicable Job : ^777777Every Job^000000
 A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
 ^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Upper ^000000
+Location : ^777777Upper ^000000
 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^7777771^000000
