@@ -22979,7 +22979,7 @@ Weight : ^7777771^000000
 #
 
 4522#
-Chance of using Crystallization enemy when doing melee damage.
+Chance of using crystallization on enemy when doing melee damage.
 Type : ^777777Card^000000
 Compount on : ^777777Weapon^000000
 Weight : ^7777771^000000
