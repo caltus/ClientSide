@@ -256,6 +256,7 @@ Near the Foolish Cat.#
 
 1146#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
 From the suspious dealers, you listened on the conversation about the hidden object. Check the area around the balloon bag which is north of ship Navi.#
+#
 
 1147#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
 The only thing you found is a useless memo. Go to listen to the dealers a bit more.#
