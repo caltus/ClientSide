@@ -3838,7 +3838,7 @@ Applicable Job : ^777777Swordman Class^000000
 
 A cold blue color sword crafted from the other world mineral Bradium.
 Indestructible (except in upgrade attempts).
-AGI + 3, MaxHP - 10%.
+AGI + 3, Max HP - 10%.
 Class : ^777777Two-handed Sword^000000
 Attack : ^777777280^000000
 Weight : ^77777740^000000
@@ -8397,15 +8397,15 @@ A staff made from the wood of a tree long exposed to magic power. The staff hold
 INT + 4. MATK + 155
 INT bonus increases if refined past + 6, at the cost of reduced Max HP and Max SP.
 [^333399Refine Rate 6^000000]
-INT + 1, MaxHP - 200, MaxSP - 100.
+INT + 1, Max HP - 200, Max SP - 100.
 [^333399Refine Rate 7^000000]
-INT + 2, MaxHP - 400, MaxSP - 200.
+INT + 2, Max HP - 400, Max SP - 200.
 [^333399Refine Rate 8^000000]
-INT + 3, MaxHP - 600, MaxSP - 300.
+INT + 3, Max HP - 600, Max SP - 300.
 [^333399Refine Rate 9^000000]
-INT + 4, MaxHP - 800, MaxSP - 400.
+INT + 4, Max HP - 800, Max SP - 400.
 [^333399Refine Rate 10^000000]
-INT + 5, MaxHP - 1000, MaxSP - 500.
+INT + 5, Max HP - 1000, Max SP - 500.
 Class : ^777777Rod^000000
 Attack : ^777777100^000000
 Weight : ^77777710^000000
@@ -8548,7 +8548,7 @@ Applicable Job : ^777777Acolyte Class^000000
 1654#
 A staff that converts physical power into psychic energy.
 Reduces ^008800Psychic Wave^000000 variable cast time by 3 seconds, but increases the cost of Psychic Wave by 60 sp.
-Each refine above +6 increases ^008800Psychic Wave^000000 attack power by 2%, but decreases MaxHP by 2%.
+Each refine above +6 increases ^008800Psychic Wave^000000 attack power by 2%, but decreases Max HP by 2%.
 When unequipping the weapon, you lose 100 SP.
 MATK + 170.
 Class : ^777777Staff^000000
@@ -10731,8 +10731,8 @@ Applicable Job : ^777777High Wizard^000000
 A figure of the golden dragon that controls time and space sits atop this staff.
 Magical energy is focused and condensed into the crystal sphere.
 Although impressive in appearance, this staff can be quite heavy to wield.
-MATK + 240. INT + 3, MaxHP + 300.
-INT + 1, MaxHP 50 every two upgrades on the weapon.
+MATK + 240. INT + 3, Max HP + 300.
+INT + 1, Max HP 50 every two upgrades on the weapon.
 A chance to active MATK + 12%, SP Cost + 20% after using magical attack for 5 seconds.
 Class : ^777777Two-handed Staff^000000
 Attack : ^77777730^000000
@@ -11393,7 +11393,7 @@ Applicable Job : ^777777Every Jobs except Novice^000000
 2138#
 A solid shield crafted from Bradium.
 Increases ATK of Shield Boomerang by 60%.
-AGI - 1, MaxHP + 500
+AGI - 1, Max HP + 500
 Class : ^777777Shield^000000
 Defense : ^77777798^000000
 Weight : ^777777180^000000
@@ -11585,7 +11585,7 @@ Applicable Job : ^777777Rune Knight^000000
 2161#
 A book from the lost land of geffenia that's said to contain powerful magic.
 INT + 1, MDEF + 2.
-If base INT is 120, Adds MATK + 10, MaxHP + 800.
+If base INT is 120, Adds MATK + 10, Max HP + 800.
 If used in combination with L'cryma Stick, each refine of shield reduces fixed cast time of Storm Gust, Jack Frost, Frost Misty by 4%.
 Type : ^777777Shield^000000 
 Defense : ^77777730^000000
@@ -11683,7 +11683,7 @@ Jobs : ^777777Ninja Class^000000
 ^000088Rental Item^000000
 MDEF + 15.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 100, MAXSP + 100.
+MAXHP + 100, Max SP + 100.
 플레이어로부터 받는 데미지 15% 감소.
 Type : ^777777Shield^000000 
 Defense : ^77777715^000000
@@ -13470,7 +13470,7 @@ Designed to be used by outstanding warrior who has a remarkable attack skill. It
 Reduces damage from Demi human monster by 2%.
 MaxHP + 150. MDEF + 2.
 [^000088Combat Greaves & General's Manteau Equip Set^000000]
-STR + 3, MaxHP + 12%,
+STR + 3, Max HP + 12%,
 Increases Mammonite damage by 20%.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Potion Pitcher^000000 by 10%.
 Increases damage from Non-Demi-Human monsters times 3.
@@ -13488,7 +13488,7 @@ Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Battle Greaves and Captain's Manteau,
-AGI + 3. MaxHP + 12%.
+AGI + 3. Max HP + 12%.
 Increase in attack speed(delay after attacking reduces by 5%),
 Critical Rate + 5%,
 ASPD + 5%.
@@ -13507,7 +13507,7 @@ Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2. 
 ^FFFFFF000000^000000
 When equipped with Combat Boots and Commander's Manteau,
-INT + 3. MaxHP + 12%.
+INT + 3. Max HP + 12%.
 Adds 20% resistance to ^FF0000Stun^000000.
 Increases damage from all Non-Demi-Human monsters times 3.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
@@ -13525,7 +13525,7 @@ Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2.
 ^FFFFFF000000^000000
 When equipped with Combat Boots and Commander's Manteau,
-INT + 3. MaxHP + 12%.
+INT + 3. Max HP + 12%.
 Reduces ^FF0000Holy Light^000000 Variable Casting Time by 50%.
 Increases damage from all Non-Demi-Human monsters times 3.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Sanctuary^000000 by 6% when they are cast by the wearer.
@@ -13544,7 +13544,7 @@ Reduces damage from Demi-Human monsters by 2%.
 MaxHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Combat Boots and Commander's Manteau,
-DEX + 3, MaxHP + 12%.
+DEX + 3, Max HP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
 Increases damage from all Non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
@@ -13560,7 +13560,7 @@ Reduces damage from Demi-Human monsters by 2%.
 MHP + 150, MDEF + 2.
 ^ffffff000000^000000
 When equipped with Battle Boots and Sheriff's Manteau,
-DEX + 3, MaxHP + 12%.
+DEX + 3, Max HP + 12%.
 Reduces long ranged Damage by 10% and cast delay by 25%.
 Increases damage from all Non-Demi-Human monsters times 3.
 Class : ^777777Armor^000000
@@ -13572,7 +13572,7 @@ Applicable Job : ^777777Gunslinger^000000
 
 2383#
 Brynhild is one of the valiant valkyries, meaning 'The Warrior's Armor'.
-Increases MaxHP by 20 times your base level, and MaxSP by 5 times your base level.
+Increases Max HP by 20 times your base level, and Max SP by 5 times your base level.
 Increases physical damage by 10%, and increases your magic attack power by 10%.
 MDEF + 10
 The player wearing this cannot be knocked back.
@@ -13588,7 +13588,7 @@ Applicable Job : ^777777Every Job^000000
 ^000088Rental Items^000000
 A Tunic that has been granted additional tolerance against certain properties.
 Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
-MDEF + 5. MaxHP + 800. Cannot be Frozen.
+MDEF + 5. Max HP + 800. Cannot be Frozen.
 Class : ^777777Armor^000000
 Defense : ^77777738^000000
 Weight : ^7777770^000000
@@ -14164,7 +14164,7 @@ Applicable Job : ^777777Every Job^000000
 2439#
 ^000088Rental Items^000000
 Shoes that were made with complex design and very soft skin to show how fun your legs could be with these.
-MaxHP + 17% , MaxSP + 8%.
+MaxHP + 17% , Max SP + 8%.
 Every 10 seconds, your HP goes up by 20, SP goes up by 3.
 Class : ^777777Shoes^000000
 Defense : ^77777720^000000
@@ -14300,7 +14300,7 @@ Applicable Job : ^777777All Job except novice^000000
 ^000088Rental Items^000000
 A pair of spiritual sandals granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-MaxHP + 8%, MaxSP + 8%.
+MaxHP + 8%, Max SP + 8%.
 Class : ^777777Footgear^000000
 Defense : ^7777775^000000
 Weight : ^77777740^000000
@@ -14312,7 +14312,7 @@ Applicable Job : ^777777Every Job^000000
 ^000088Rental Items^000000
 A pair of spiritual sandals granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-MaxHP + 8%, MaxSP + 8%.
+MaxHP + 8%, Max SP + 8%.
 Class : ^777777Footgear^000000
 Defense : ^7777775^000000
 Weight : ^77777740^000000
@@ -14324,7 +14324,7 @@ Applicable Job : ^777777Every Job^000000
 ^000088Rental Items^000000
 A pair of spiritual sandals granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-MaxHP + 8%, MaxSP + 8%.
+MaxHP + 8%, Max SP + 8%.
 Class : ^777777Footgear^000000
 Defense : ^7777775^000000
 Weight : ^77777740^000000
@@ -14336,7 +14336,7 @@ Applicable Job : ^777777Every Job^000000
 ^000088Rental Items^000000
 A pair of spiritual sandals granted by Freya. It appears very sturdy,
 but it will eventually disappear and return to Freya's realm, Folkvangr.
-MaxHP + 8%, MaxSP + 8%.
+MaxHP + 8%, Max SP + 8%.
 Class : ^777777Footgear^000000
 Defense : ^7777775^000000
 Weight : ^77777740^000000
@@ -14449,7 +14449,7 @@ Applicable Job : ^777777Every Job^000000
 2464#
 Let the ass-kicking commence!
 STR + 1, INT + 1, DEX + 1.
-MaxHP + 10%, MaxSP + 5%.
+MaxHP + 10%, Max SP + 5%.
 Reduce 2% damage taken from Demi-Human monster.
 [^000088No Fear Underwear & No Fear Belt Set^000000]
 Cannot be frozen, Increase EXP Gain by 5%.
@@ -14560,7 +14560,7 @@ Applicable Job : ^777777Every Job^000000
 2475#
 Greaves made by purifying an Ur Rune.
 MaxSP + 40.
-Reduces MaxHP by 7%. Refine rate reduces the MaxHP reduction by 1% for each level up to +8.
+Reduces Max HP by 7%. Refine rate reduces the Max HP reduction by 1% for each level up to +8.
 Type : ^777777Shoes^000000 
 Defense : ^77777732^000000
 Weight : ^77777790^000000
@@ -14612,7 +14612,7 @@ Applicable Job : ^777777Ranger^000000
 
 2480#
 An ancient artifact that helps maintain clear mental focus.
-INT + 2, MaxSP + 5%.
+INT + 2, Max SP + 5%.
 Type : ^777777Shoes^000000 
 Defense : ^77777718^000000
 Weight : ^77777740^000000
@@ -14676,7 +14676,7 @@ Applicable Job : ^777777Every Job^000000
 ^000088Rental Item^000000
 MDEF + 5.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 150, MAXSP + 150.
+MAXHP + 150, Max SP + 150.
 플레이어에게 물리/마법 공격력 5% 증가.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Shoes^000000 
@@ -14690,7 +14690,7 @@ Applicable Job : ^777777All Jobs^000000
 ^ff0000This item is account bound.^000000
 ^000088Rental Item^000000
 ※ TE 공성 지역 추가 옵션
-MAXHP + 200, MAXSP + 100.
+MAXHP + 200, Max SP + 100.
 플레이어에게 물리 공격력 10% 증가.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Shoes^000000 
@@ -14705,7 +14705,7 @@ Applicable Job : ^777777Swordsman Class, Merchant Class^000000
 ^000088Rental Item^000000
 MDEF + 5.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 100, MAXSP + 200.
+MAXHP + 100, Max SP + 200.
 플레이어에게 마법 공격력 5% 증가.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Shoes^000000 
@@ -17031,7 +17031,7 @@ Applicable Job : ^777777Every Job Except Novice^000000
 2733#
 A badge rewarded to honorable warriors.
 ATK + 5%, MATK + 5%,
-CRI + 10, MaxHP + 300,
+CRI + 10, Max HP + 300,
 MaxSP + 80. 
 Has a chance of inflicting the Darkness status when receiving long ranged physical attacks.
 Class : ^777777Accessory^000000
@@ -17222,7 +17222,7 @@ Applicable Job : ^777777Novice Class, Mage Class, Acolyte Class^000000
 2751#
 The first process should be able to complete the first accessories
 to complete the process of the sign.
-If the base level is less than or equal to 79, MaxHP + 400, MaxSP + 200
+If the base level is less than or equal to 79, Max HP + 400, Max SP + 200
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -17549,7 +17549,7 @@ Applicable Job : ^777777Every Job^000000
 A ring imitating the legendary ring of the Ancient Wise King which used to communicate with an animal.
 Rune Midgards's Magical Power, Schubaltzvald's technology, and Arunafeltz's liquistic ability are put together in this ring.
 By equipping this ring, you can talk freely with the people of the Other World.
-MaxHP + 50, MaxSP + 20.
+MaxHP + 50, Max SP + 20.
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -17558,7 +17558,7 @@ Applicable Job : ^777777Every Job^000000
 
 2783#
 A ring with a small jewel. At times the jewel looks like an eye that stares back at you.
-CRIT + 2, MaxSP + 25.
+CRIT + 2, Max SP + 25.
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -17607,7 +17607,7 @@ Applicable Job : ^777777Every Job^000000
 2787#
 A brooch crafted from the tears of an Aqua Elemental.
 Add a 5% resistance against ^0000FFWater^000000 Property monsters.
-MDEF + 2, MaxHP + 1%
+MDEF + 2, Max HP + 1%
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777720^000000
@@ -18027,7 +18027,7 @@ Applicable Job : ^777777Every Job^000000
 
 2828#
 A Clip molded out of Elunium and pure gold mixture.
-MaxHP + 3%. MaxSP + 30.
+MaxHP + 3%. Max SP + 30.
 Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -18246,7 +18246,7 @@ Applicable Job : ^777777Every Job^000000
 2853#
 
 A sphere that contains a magic liquid that holds a mysterious magic power.
-INT + 3, MDEF + 1, MaxSP + 30.
+INT + 3, MDEF + 1, Max SP + 30.
 Increases damage of ^008800Psychic Wave^000000 by 10%.
 Increases the SP cost of all skills by 50.
 Class : ^777777Accessory^000000
@@ -18466,7 +18466,7 @@ Applicable Job : ^777777Rune Knight^000000
 
 2884#
 A seal created by refining a Peuz Runestone
-ATK + 20, MaxSP + 20.
+ATK + 20, Max SP + 20.
 Type : ^777777Accessory^000000 
 Defense : ^7777773^000000
 Weight : ^77777720^000000
@@ -18543,7 +18543,7 @@ Applicable Job : ^777777Guillotine Cross^000000
 
 2894#
 파괴신의 불타는 듯한 이미지를 형상화한,금속으로 주조된 장갑.
-STR + 5, MaxSP + 6%, MaxHP - 6%.
+STR + 5, Max SP + 6%, Max HP - 6%.
 순수 STR이 120인 경우, ATK + 30.
 Type : ^777777Accessory^000000 
 Defense : ^7777771^000000
@@ -18645,7 +18645,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2917#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 STR+10마다 ATK+1씩 증가.
 STR 110 이상 일 때 ATK + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18657,7 +18657,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2918#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 INT+10마다 MATK+1씩 증가.
 INT 110 이상 일 때 MATK + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18669,7 +18669,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2919#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 AGI+10마다 FLEE+1씩 증가.
 AGI 110 이상 일 때 완전회피 + 1 추가
 Type : ^777777Accessory^000000 
@@ -18681,9 +18681,9 @@ Applicable Job : ^777777All Jobs^000000
 
 2920#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 VIT+10마다 MaxHP+50씩 증가.
-VIT 110 이상 일 때 MaxHP + 1% 추가
+VIT 110 이상 일 때 Max HP + 1% 추가
 Type : ^777777Accessory^000000 
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -18693,7 +18693,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2921#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 DEX+10마다 HIT+1씩 증가.
 DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18705,7 +18705,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2922#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 LUK+10마다 CRI+1씩 증가.
 LUK 110 이상 일 때 크리티컬 데미지 1% 추가
 Type : ^777777Accessory^000000 
@@ -18717,7 +18717,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2923#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 STR+10마다 ATK+1씩 증가.
 STR 110 이상 일 때 ATK + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18729,7 +18729,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2924#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 INT+10마다 MATK+1씩 증가.
 INT 110 이상 일 때 MATK + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18741,7 +18741,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2925#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 AGI+10마다 FLEE+1씩 증가.
 AGI 110 이상 일 때 완전회피 + 1 추가
 Type : ^777777Accessory^000000 
@@ -18753,9 +18753,9 @@ Applicable Job : ^777777All Jobs^000000
 
 2926#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 VIT+10마다 MaxHP+50씩 증가.
-VIT 110 이상 일 때 MaxHP + 1% 추가
+VIT 110 이상 일 때 Max HP + 1% 추가
 Type : ^777777Accessory^000000 
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -18765,7 +18765,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2927#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 DEX+10마다 HIT+1씩 증가.
 DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 Type : ^777777Accessory^000000 
@@ -18777,7 +18777,7 @@ Applicable Job : ^777777All Jobs^000000
 
 2928#
 사용자의 특정 능력치에 반응하는 글러브.
-MaxHP + 100, MaxSP + 20
+MaxHP + 100, Max SP + 20
 LUK+10마다 CRI+1씩 증가.
 LUK 110 이상 일 때 크리티컬 데미지 1% 추가
 Type : ^777777Accessory^000000 
@@ -22634,8 +22634,8 @@ Weight : ^7777771^000000
 
 4462#
 DEF + 5.
-If the armor is refined to +12 or higher, DEF + 20, MaxHP + 10%.
-If the armor is refined to +14 or higher, MaxHP + 3%.
+If the armor is refined to +12 or higher, DEF + 20, Max HP + 10%.
+If the armor is refined to +14 or higher, Max HP + 3%.
 Class : ^777777Card^000000
 Compound on : ^777777Armor^000000
 Weight : ^7777771^000000
@@ -22889,7 +22889,7 @@ Weight : ^7777771^000000
 
 4493#
 MaxHP + 50%, DEF, MDEF - 50.
-If refine is over 15, MaxHP + 75%, DEF, MDEF - 50.
+If refine is over 15, Max HP + 75%, DEF, MDEF - 50.
 Class : ^777777Card^000000
 Compound on : ^777777Armor^000000
 Weight : ^7777771^000000
@@ -22923,12 +22923,12 @@ Weight : ^7777771^000000
 #
 
 4498#
-MaxHP -60%, MaxSP +50%.
+MaxHP -60%, Max SP +50%.
 Chance to get Banana when killing a monster.
 Banana recovery rate increases by 50%
 
 If refined to level 15 or higher : Bonuses become
-MaxHP -50%, MaxSP +50%
+MaxHP -50%, Max SP +50%
 Chance to get Banana when killing a monster.
 Banana recovery rate +80%
 Class : ^777777Card^000000
@@ -22937,7 +22937,7 @@ Weight : ^7777771^000000
 #
 
 4505#
-MATK + 20, MaxSP - 1%.
+MATK + 20, Max SP - 1%.
 Type : ^777777Card^000000
 Compound on : ^777777Accessory^000000
 Weight : ^7777771^000000
@@ -22960,7 +22960,7 @@ Weight : ^7777771^000000
 #
 
 4508#
-ATK + 20, MaxHP - 1%.
+ATK + 20, Max HP - 1%.
 Type : ^777777Card^000000
 Compound on :^777777 Accessory^000000
 Weight : ^7777771^000000
@@ -23112,7 +23112,7 @@ Weight : ^7777771^000000
 
 4528#
 MATK + 2%
-For each 2 refine, MATK + 1%, MaxHP - 1%.
+For each 2 refine, MATK + 1%, Max HP - 1%.
 Type : ^777777Card^000000
 Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
@@ -23120,7 +23120,7 @@ Weight : ^7777771^000000
 
 4529#
 ATK + 2%
-For each 2 refine, ATK + 1%, MaxSP - 1%
+For each 2 refine, ATK + 1%, Max SP - 1%
 Type : ^777777Card^000000
 Compount on : ^777777Headgear^000000
 Weight : ^7777771^000000
@@ -23772,7 +23772,7 @@ DEX + 1.
 4858#
 LUK + 1.
 8제련 시 LUK + 3 추가.
-9제련 시 MaxHP + 1% 추가.
+9제련 시 Max HP + 1% 추가.
 12제련 시 ASPD + 1, 고정 캐스팅 7% 감소.
 #
 
@@ -28343,7 +28343,7 @@ Applicable Job : ^777777Every Job^000000
 
 5406#
 Academy Freshman Hat! If you wear this, you should greet all of members of academy.
-MaxHP + 80, MaxSP + 10
+MaxHP + 80, Max SP + 10
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
 Location : ^777777Upper^000000
@@ -28385,7 +28385,7 @@ Applicable Job : ^777777Every Job^000000
 5410#
 A hat in the form of an upside-down paperbag, to celebrate the festival.
 Reduces damage from Demi-Human monster by 4%.
-Add a 4% resistance against ^880000Stun^000000, MaxHP + 100
+Add a 4% resistance against ^880000Stun^000000, Max HP + 100
 Class : ^777777Headgear^000000
 Defense : ^7777776^000000
 Location : ^777777Upper, Mid, Lower^000000
@@ -28663,9 +28663,9 @@ Applicable Job : ^777777Every Job^000000
 
 5435#
 ...
-INT + 1, MaxSP + 80, MDEF + 3.
+INT + 1, Max SP + 80, MDEF + 3.
 [^333399Refine Rate 6~10^000000]
-MDEF + 1, MaxSP + 10.
+MDEF + 1, Max SP + 10.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
 Location : ^777777Upper^000000
@@ -28943,7 +28943,7 @@ Applicable Job : ^777777Every Job^000000
 
 5460#
 A helmet made from a dragon's skull.
-ALL STATUS + 2 , MaxHP + 3%
+ALL STATUS + 2 , Max HP + 3%
 Cannot be Dropped, or Tradable. Can be placed in Kafra Storage.
 Class : ^777777Headgear^000000
 Defense : ^7777777^000000
@@ -29135,7 +29135,7 @@ Applicable Job : ^777777Every Job^000000
 5476#
 "Hair ornament made from grandpeco feathers.
 Be allowed to acquire only the Patriarch of valor."
-STR + 2, MaxHP - 10%.
+STR + 2, Max HP - 10%.
 Increased 15% damage to the monster except Ork Hero.
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
@@ -29158,7 +29158,7 @@ Applicable Job : ^777777Every Job^000000
 
 5478#
 Classic Hat.
-STR + 2, MaxHP + 300
+STR + 2, Max HP + 300
 Class : ^777777Headgear^000000
 Defense : ^7777773^000000
 Location : ^777777Upper^000000
@@ -29704,7 +29704,7 @@ Applicable Job : ^777777Every Job^000000
 
 5525#
 A hat made of flower to celebrate the partnership campaign.
-MaxHP + 80, MaxSP + 20
+MaxHP + 80, Max SP + 20
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
 Location : ^777777Upper^000000
@@ -30136,7 +30136,7 @@ Applicable Job : ^777777Every Job^000000
 
 5561#
 ...
-INT + 1, MaxSP + 50.
+INT + 1, Max SP + 50.
 Add low probability Level 1~3 random fire bolt skill on the enemy when receives physical attack.
 Add low chance of auto casting ^008800Level 1 Heal^000000 on the user when receives physical attack.
 Class : ^777777Headgear^000000
@@ -30490,7 +30490,7 @@ Applicable Job : ^777777Every Job^000000
 5590#
 ...
 [^000088Event Bonus, will NOT work outside of Event^000000]
-LUK + 7, MaxHP + 700, MaxSP + 70.
+LUK + 7, Max HP + 700, Max SP + 70.
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
 Location : ^777777Upper^000000
@@ -31747,7 +31747,7 @@ Applicable Job : ^777777Every Job Except Novice^000000
 
 5694#
 No Fear hat shaped signs that are written.
-VIT + 1, MaxHP + 100.
+VIT + 1, Max HP + 100.
 Reduces damage from Demi-Human monster by 2%.
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
@@ -32120,7 +32120,7 @@ Applicable Job : ^777777All Jobs^000000
 5768#
 The Coronet which is pinky shining.
 MaxSP + 25.
-When you wear this with Romantic Flower you could get INT + 1, if refined lv is over 7, you could get MaxSP + 1% in every each lv.
+When you wear this with Romantic Flower you could get INT + 1, if refined lv is over 7, you could get Max SP + 1% in every each lv.
 When you wear this with Romantic White Flower, you could get DEX + 1, if refined lv is over 5, you could get decreased skill delay by 1% in every each lv.
 When you wear this with Romantic Leaf, STR + 1, if refined lv is over 3, you would 1% decreased SP in every each lv.
 Item Class : ^777777Headgear^000000
@@ -32276,7 +32276,7 @@ Applicable Job : ^777777전 직깠 1048575^000000
 A hairpin made by aromatic floral leaf which is known as a first symbol of spring.
 Can not be upgraded.
 MaxSp + 20, Flee +1
-If combines with 'Centimental Flower', give MaxSP + 30, INT + 1.
+If combines with 'Centimental Flower', give Max SP + 30, INT + 1.
 If combines with 'Centimental Leaf', give Flee +2, LUK + 1.
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
@@ -32729,7 +32729,7 @@ Applicable Job : ^777777Every Job^000000
 ...
 ...
 LUK + 4
-MaxHP + 100, MaxSP + 100.
+MaxHP + 100, Max SP + 100.
 Reduce 7% damage taken from Demi-Human monster.
 Reduces damage from undead monsters by 7%.
 Class : ^777777Headgear^000000
@@ -42624,21 +42624,21 @@ Weight : ^7777770^000000
 
 9009#
 An egg in which a Savage Babe Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-VIT + 1, MaxHP + 50.
+VIT + 1, Max HP + 50.
 Class : ^777777Monster Egg^000000
 Weight : ^7777770^000000
 #
 
 9010#
 An egg in which a Baby Desert Wolf Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-INT + 1, MaxSP + 20.
+INT + 1, Max SP + 20.
 Class : ^777777Monster Egg^000000
 Weight : ^7777770^000000
 #
 
 9011#
 An egg in which a Rocker Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-HP Recovery - 5%, MaxHP + 25.
+HP Recovery - 5%, Max HP + 25.
 Class : ^777777Monster Egg^000000
 Weight : ^7777770^000000
 #
@@ -42659,7 +42659,7 @@ Weight : ^7777770^000000
 
 9014#
 An egg in which a Peco Peco Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
-MaxHP + 150, MaxSP - 10.
+MaxHP + 150, Max SP - 10.
 Class : ^777777Monster Egg^000000
 Weight : ^7777770^000000
 #
@@ -46622,7 +46622,7 @@ Weight : ^7777775^000000
 #
 
 12436#
-Recovers SP, natural SP natural speed increased by 20% and MaxSP increased by 5%.
+Recovers SP, natural SP natural speed increased by 20% and Max SP increased by 5%.
 Duration : 500 sec.
 Weight : ^7777775^000000
 #
@@ -47376,7 +47376,7 @@ Weight : ^7777771^000000
 
 12578#
 Potion contains verious recovery herb juice. Effective for faster wound healing.
-Recovers 6% of MaxHP every 3 seconds for 10 minutes.
+Recovers 6% of Max HP every 3 seconds for 10 minutes.
 Not available in berserk condition.
 ^000088When player's character becomes combat ineffective, the item buff effect will wear off.^000000
 Weight : ^7777771^000000
@@ -48266,7 +48266,7 @@ Weight : ^7777771^000000
 #
 
 12753#
-Use this item to increase your MaxHP by 5% and MaxSP by 5% for 30 minutes. This effect persists through death.
+Use this item to increase your Max HP by 5% and Max SP by 5% for 30 minutes. This effect persists through death.
 Weight : ^7777771^000000
 #
 
@@ -48402,7 +48402,7 @@ Weight : ^7777771^000000
 12796#
 ^ff0000This item is account bound.^000000
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, Max SP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 Weight : ^7777771^000000
@@ -50342,7 +50342,7 @@ Applicable Job : ^777777Shadow Chaser Only^000000
 
 13062#
 A dagger used in ancient rituals, it feels as though it holds a mysterious power.
-MATK + 120, MaxSP + 100, SP Recovery Rate + 5%.
+MATK + 120, Max SP + 100, SP Recovery Rate + 5%.
 When dealing physical or magical damage there's a low chance to receive the ^880000Curse^000000 status.
 Class : ^777777Dagger^000000
 Attack : ^777777107^000000
@@ -52319,7 +52319,7 @@ Thief Classes^000000
 13431#
 A cold blue dagger crafted from the other world mineral Bradium.
 Indestructible (except in upgrade attempts).
-AGI + 1, MaxHP - 5%.
+AGI + 1, Max HP - 5%.
 Class : ^777777Sword^000000
 Attack : ^777777180^000000
 Weight : ^777777220^000000
@@ -55574,7 +55574,7 @@ A hat with cute little chick on it. It's hopping action is so cute.
 Allows usage ^008800Level 2 Double Attack^000000, and if you already know higher than ^008800Level 2 Double Attack^000000, then the appropriate level will be used instead.
 Reduce damage from Demi-Human monster by 3%.
 Impossible to refine this item.
-MaxHP, MaxSP + 50, LUK + 2.
+MaxHP, Max SP + 50, LUK + 2.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -56332,7 +56332,7 @@ Weight : ^7777771^000000
 A box which contains 1 Spiritual Tunic. Rental period for a week.
 A Tunic that has been granted additional tolerance against certain properties.
 Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
-MDEF + 5. MaxHP + 800. Cannot be Frozen.
+MDEF + 5. Max HP + 800. Cannot be Frozen.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -56377,7 +56377,7 @@ Weight : ^7777771^000000
 13958#
 A box which contains 1 Refresh Shoes. Rental period for a week.
 Shoes that were made with complex design and very soft skin to show how fun your legs could be with these.
-MaxHP + 17% , MaxSP + 8%.
+MaxHP + 17% , Max SP + 8%.
 Every 10 seconds, your HP goes up by 20, SP goes up by 3.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -59800,7 +59800,7 @@ Weight : ^7777771^000000
 14359#
 A box that contains 10 'Tao Gunka Scroll' in it.
 A Scroll that imbued with great force of Monster Tao Gunka.
-For 3 minutes MaxHP + 100%, DEF -50, MDEF -50.
+For 3 minutes Max HP + 100%, DEF -50, MDEF -50.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -61428,7 +61428,7 @@ Weight : ^7777771^000000
 
 14600#
 A potion that will make you full of spirit.
-Increases 10% MaxSP for 30 minutes. SP consumption - 10%.
+Increases 10% Max SP for 30 minutes. SP consumption - 10%.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -61444,7 +61444,7 @@ Weight : ^7777771^000000
 
 14602#
 A Scroll that imbued with great force of Monster Tao Gunka.
-For 3 minutes MaxHP + 100%, DEF -50, MDEF -50.
+For 3 minutes Max HP + 100%, DEF -50, MDEF -50.
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -61598,7 +61598,7 @@ Applicable Job : ^777777Every Job^000000
 15009#
 A uniform for use by Paradise Group Members.
 It comes in all kinds of sizes so even tall people are ok.
-MaxHP + 100, MaxSP + 10.
+MaxHP + 100, Max SP + 10.
 Impossible to refine this item.
 Class : ^777777Armor^000000
 Defense : ^77777735^000000
@@ -61610,7 +61610,7 @@ Applicable Job : ^777777Every Job^000000
 15010#
 A uniform for use by Paradise Group Members.
 It comes in all kinds of sizes so even tall people are ok.
-MaxHP + 200, MaxSP + 20.
+MaxHP + 200, Max SP + 20.
 Impossible to refine this item.
 Class : ^777777Armor^000000
 Defense : ^77777746^000000
@@ -61622,7 +61622,7 @@ Applicable Job : ^777777Every Job^000000
 15011#
 A uniform for use by Paradise Group Members.
 It comes in all kinds of sizes so even tall people are ok.
-MaxHP + 300, MaxSP + 30, MDEF + 5.
+MaxHP + 300, Max SP + 30, MDEF + 5.
 Impossible to refine this item.
 Class : ^777777Armor^000000
 Defense : ^77777758^000000
@@ -61843,7 +61843,7 @@ Applicable Job : ^777777Arch Bishop^000000
 15031#
 ...
 STR + 1, INT + 1, DEX + 1.
-MaxHP + 500, MaxSP + 50, MDEF + 5.
+MaxHP + 500, Max SP + 50, MDEF + 5.
 Impossible to refine this item.
 Class : ^777777 Armor^000000
 Defense : ^777777 58^000000
@@ -61884,7 +61884,7 @@ Applicable Job : ^777777교육용(비매품)^000000
 15036#
 Armor created by purifying Ur runestones.
 MDEF + 10.
-Increases MaxHP per refine level and tolerance to Demi-human and Neutral property damage by 5%.
+Increases Max HP per refine level and tolerance to Demi-human and Neutral property damage by 5%.
 MaxHP +14%, Increases damage of Hundred Spears by 50%,
 enables Crusader skill Guard Level 1
 Class : ^777777Armor^000000
@@ -61953,7 +61953,7 @@ Applicable Job : ^777777Every Job^000000
 
 15041#
 The armor that made by power of mythic creature, Boitata
-FLEE + 5, MaxHP + 5%, MDEF + 3.
+FLEE + 5, Max HP + 5%, MDEF + 3.
 Resist for attribute "NOTHING" bonus 7%
 Class : ^777777Armor^000000
 Defense : ^7777775^000000
@@ -61992,7 +61992,7 @@ Job : ^777777Ranger^000000
 #
 
 A gown once used by a scholar who studied homunculus.
-DEX + 1, MaxSP + 30.
+DEX + 1, Max SP + 30.
 When equipped with the Scalpel, has a chance when killing animal and demi-human type monsters to drop 'Immortal Heart' and 'Alcohol'.
 Higher refine rate increases the chance of item drop.
 Class : ^777777Armor^000000
@@ -62007,7 +62007,7 @@ MDEF + 5.
 Effect applies only in WoE & PVP.
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, 받는 힐과 일부 회복아이템 성능 12% 증가.
-9제련 이상일 경우, MaxHP + 25% 증가.
+9제련 이상일 경우, Max HP + 25% 증가.
 시즈 그리브, 시즈 망토와 함께 장착 시 VIT + 5, 플레이어에게 받는 데미지 15% 추가 감소.
 Type : ^777777Armor^000000 
 Defense : ^77777785^000000
@@ -62021,7 +62021,7 @@ MDEF + 10.
 Effect applies only in WoE & PVP.
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, 완전회피 + 5, 받는 원거리 데미지 20% 감소.
-9제련 이상일 경우, MaxHP + 15% 증가.
+9제련 이상일 경우, Max HP + 15% 증가.
 시즈 부츠, 시즈 망토와 함께 장착 시 DEX + 5, 플레이어에게 받는 데미지 15% 추가 감소.
 Type : ^777777Armor^000000 
 Defense : ^77777750^000000
@@ -62035,7 +62035,7 @@ MDEF + 20.
 Effect applies only in WoE & PVP.
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, FLEE + 5, 받는 원거리 데미지 15% 감소.
-9제련 이상일 경우, MaxHP + 1000, MaxSP + 100 증가.
+9제련 이상일 경우, Max HP + 1000, Max SP + 100 증가.
 시즈 슈즈, 시즈 머플러와 함께 장착 시 INT + 5, MDEF + 10, 플레이어에게 받는 데미지 15% 추가 감소.
 Type : ^777777Armor^000000 
 Defense : ^77777740^000000
@@ -62077,7 +62077,7 @@ Applicable Job : ^777777Ninja^000000
 
 15054#
 일반적인 닌자술을 벗어나 과감한 술법으로 전설의 반열에 오른 닌자가 착용했다고 알려진 비늘 갑옷. 근접공격에 특화되어 있다.
-MaxHP + 15%, MaxSP - 30%.
+MaxHP + 15%, Max SP - 30%.
 늑대 문양 팔목 보호대와 함께 장착 시, ATK + 10%, STR + 2 추가.
 Type : ^777777Armor^000000 
 Defense : ^77777790^000000
@@ -62103,7 +62103,7 @@ Applicable Job : ^777777Ninja^000000
 ^000088Rental Item^000000
 MDEF + 15.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 250, MAXSP + 250.
+MAXHP + 250, Max SP + 250.
 플레이어로부터 받는 데미지 10% 감소.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Armor^000000 
@@ -62118,7 +62118,7 @@ Applicable Job : ^777777All Jobs^000000
 ^000088Rental Item^000000
 MDEF + 5.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 450, MAXSP + 50.
+MAXHP + 450, Max SP + 50.
 플레이어로부터 받는 데미지 15% 감소.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Armor^000000 
@@ -62133,7 +62133,7 @@ Applicable Job : ^777777Swordsman Class, Merchant Class^000000
 ^000088Rental Item^000000
 MDEF + 25.
 ※ TE 공성 지역 추가 옵션
-MAXHP + 200, MAXSP + 300.
+MAXHP + 200, Max SP + 300.
 플레이어로부터 받는 데미지 5% 감소.
 동빙에 대한 내성 25% 증가.
 Type : ^777777Armor^000000 
@@ -66169,7 +66169,7 @@ Weight : ^7777771^000000
 A box contains 10 Rapid Life Potions in it.
 
 Potion contains verious recovery herb juice. Effective for faster wound healing.
-Recovers 6% of MaxHP every 3 seconds for 10 minutes.
+Recovers 6% of Max HP every 3 seconds for 10 minutes.
 Not available in berserk condition.
 ^000088When player's character becomes combat ineffective, the item buff effect will wear off.^000000
 Weight : ^7777771^000000
@@ -68674,7 +68674,7 @@ Weight : ^7777771^000000
 멘탈 포션이 20개 들어있는 상자.
 ^ffffff_^000000
 정신력을 충만하게 해주는 포션.
-30분간 MaxSP 10% 증가, SP 소모량 10% 감소.
+30분간 Max SP 10% 증가, SP 소모량 10% 감소.
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -68687,7 +68687,7 @@ Weight : ^7777771^000000
 멘탈 포션이 50개 들어있는 상자.
 ^ffffff_^000000
 정신력을 충만하게 해주는 포션.
-30분간 MaxSP 10% 증가, SP 소모량 10% 감소.
+30분간 Max SP 10% 증가, SP 소모량 10% 감소.
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
 ^ffffff_^000000
 Weight : ^7777771^000000
@@ -68973,7 +68973,7 @@ Weight : ^7777771^000000
 ^000088임대아이템^000000
 대인전투용으로써 다양한 공격패턴을 취할 수 있게끔 만들어진 살상용 단검
 인간형 몬스터의 물리방어력 무시 / 인간형 적에 대한 내성 10%/ 악마형 적에 대한 피해 10% 증가
-적 타격시 SP 3 회복, MaxSP +10%
+적 타격시 SP 3 회복, Max SP +10%
 골드PC방에서 장착 시 ATK + 10, MATK + 10.
 Type : ^777777One-Handed Sword^000000 
 Attack : ^777777129^000000
@@ -69394,7 +69394,7 @@ Weight : ^7777771^000000
 리프레쉬 슈즈가 1개 들어있는 상자. 개봉 후, 7일간 사용 가능.
 ^000088임대아이템^000000
 섬세한 디자인에 부드러운 가죽을 사용하여 발의 편안함을 우선시한 슈즈.
-MaxHP 17% 증가, MaxSP 8% 증가.
+MaxHP 17% 증가, Max SP 8% 증가.
 10초마다 HP가 20, SP가 3씩 회복된다.
 골드PC방에서 장착 시 All Stats + 1.
 Type : ^777777Shoes^000000 
@@ -69853,8 +69853,8 @@ Weight : ^7777771^000000
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 1시간 동안 사용가능.
 ^000088Rental Item^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MaxSP - 2%.
-골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
+MATK + 30, Max SP - 2%.
+골드 PC방에서 사용 시, 추가로 Max SP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
 Type : ^777777Headgear^000000 
 Defense : ^7777770^000000
 Location : ^777777하단 ^000000
@@ -69870,8 +69870,8 @@ Weight : ^7777771^000000
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 2시간 동안 사용가능.
 ^000088Rental Item^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MaxSP - 2%.
-골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
+MATK + 30, Max SP - 2%.
+골드 PC방에서 사용 시, 추가로 Max SP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
 Type : ^777777Headgear^000000 
 Defense : ^7777770^000000
 Location : ^777777하단 ^000000
@@ -69887,8 +69887,8 @@ Weight : ^7777771^000000
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 4시간 동안 사용가능.
 ^000088Rental Item^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MaxSP - 2%.
-골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
+MATK + 30, Max SP - 2%.
+골드 PC방에서 사용 시, 추가로 Max SP + 2%, 변동캐스팅 시간 2% 단축, All Stats + 1.
 Type : ^777777Headgear^000000 
 Defense : ^7777770^000000
 Location : ^777777하단 ^000000
@@ -70264,7 +70264,7 @@ Weight : ^7777771^000000
 강화 클립이 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 클립.
-MaxHP + 3%. MaxSP + 30.
+MaxHP + 3%. Max SP + 30.
 Type : ^777777Accessory^000000 
 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -71544,7 +71544,7 @@ Weight : ^7777771^000000
 레드 부스터가 20개 들어있는 상자.
 
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, Max SP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
@@ -71557,7 +71557,7 @@ Weight : ^7777771^000000
 레드 부스터 20개와 2011 RWC 스크롤 1개가 들어있는 상자.
 
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, Max SP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
@@ -71628,7 +71628,7 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 아크엔젤링을 본따 만든 말랑말랑한 모자.
 HP회복력 150% 상승.
-제련도 1당 MaxHP + 80씩 증가.
+제련도 1당 Max HP + 80씩 증가.
 Type : ^777777Headgear^000000 
 Defense : ^7777773^000000
 Location : ^777777Upper^000000
@@ -72104,7 +72104,7 @@ Applicable Job : ^777777Every Job^000000
 18503#
 ...
 ATK, MATK 5%.
-MaxHP, MaxSP + 10%.
+MaxHP, Max SP + 10%.
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
 Location : ^777777Mid^000000
@@ -72130,7 +72130,7 @@ Applicable Job : ^777777All Jobs^000000
 
 18506#
 부드러운 실크로 만들어진 것으로 아랍에서는 주로 머리에 쓴다.
-MaxHP + 10%, MaxSP + 10%.
+MaxHP + 10%, Max SP + 10%.
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777상중하단 ^000000
@@ -72190,7 +72190,7 @@ Applicable Job : ^777777All Jobs^000000
 
 18511#
 These are the bloodstained feathers of a fallen angel acquired from the Betrayal of Emperium event.
-When worn with Bloody Angel Wings: Increase damage to Angels by 3%, MaxHP +2%, MaxSP +1%
+When worn with Bloody Angel Wings: Increase damage to Angels by 3%, Max HP +2%, Max SP +1%
 Item Class : ^777777Headgear^000000
 Defense : ^7777771^000000
 Location : ^777777Mid^000000
@@ -72262,7 +72262,7 @@ Applicable Job : ^777777Every Job^000000
 
 a four leaf clover. you might feel green grass smell.
 you might have a luck soon.
-LUK + 1, MaxSP + 20.
+LUK + 1, Max SP + 20.
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
 Location : ^777777lower ^000000
@@ -72395,7 +72395,7 @@ Applicable Job : ^777777Every Job^000000
 18534#
 A colorful mask that hide owner's identification,
 there's a rumor that it make feel exciting when wears.
-STR + 1, ATK + 5%, Delay decrease 1% , refined will be MAXHP + 100 per 1
+STR + 1, ATK + 5%, Delay decrease 1% , refined will be Max HP + 100 per 1
 Skill 'Mamer Night', 'Throwing money' will increase Damage 20% 증.
 Class : ^777777Headgear^000000
 Defense : ^7777775^000000
@@ -72703,8 +72703,8 @@ Applicable Job : ^777777All Jobs^000000
 
 18573#
 A berret decorated with white feather.
-HIT + 20, MaxHP - 10%.
-If refined to 5 or higher , HIT - 10, MaxHP + 10%, addtional refine by 2 levels , HIT - 3, MaxHP + 3%.
+HIT + 20, Max HP - 10%.
+If refined to 5 or higher , HIT - 10, Max HP + 10%, addtional refine by 2 levels , HIT - 3, Max HP + 3%.
 Class : ^777777Headgear^000000
 Location : ^777777Upper ^000000
 Defense : ^7777772^000000
@@ -73360,7 +73360,7 @@ Applicable Job : ^777777All Jobs^000000
 
 18730#
 험난한 모험의 세계에 첫 발을 내딛는 애송이 모험가들에게 지급되는 모자. 삐약이 모자로도 불린다.
-MaxHP + 15, MaxSP + 5.
+MaxHP + 15, Max SP + 5.
 Type : ^777777Headgear^000000 
 Defense : ^7777772^000000
 Location : ^777777Upper^000000
