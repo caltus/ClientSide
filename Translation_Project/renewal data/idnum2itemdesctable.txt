@@ -11632,7 +11632,7 @@ Sturdy yet light, practical shield made from rattan.
 1% damage decrease from boss monsters per
 3 refinement.
 If Kalasag, Buwaya Sack Cloth, Bakonawa Scale Armor, and Bangungot Boots of Nightmare are obtained,
-Damage decreased by 30%, and MHP increases at +20%, and MSP by +10% by from all monsters within Philippine Localizing.
+Damage decreased by 30%, and Max HP increases at +20%, and Max SP by +10% by from all monsters within Philippine Localizing.
 Class : ^777777Shield^000000
 Defense : ^77777740^000000
 Weight : ^77777740^000000
@@ -17733,7 +17733,7 @@ Applicable Job : ^777777Priest, Monk^000000
 
 2799#
 유노 마법학자들이 오랜연구 끝에 개발한 반지. 발키리의 날개깃에 수호의 마법을 담았다고 한다.
-MHP + 150, MSP + 30.
+MHP + 150, Max SP + 30.
 공격 시 일정확률로 블레싱 10Lv, 축기 5Lv 발동.
 근접물리 공격 받을 시 일정확률로, 인듀어 10Lv, 안젤루스 10Lv 발동.
 Type : ^777777Accessory^000000 
@@ -18533,7 +18533,7 @@ Applicable Job : ^777777Ranger^000000
 A cleverly designed glove with metal claws that can be used both defensively and offensively.
 MaxSP + 20, CRI + 3.
 When equipped with the Krisna, increases attack power by 50, Increase Sonic Bow's power by 50%. FLEE - 30
-When equipped with the Chakram, increases critical attack damage by 40%, CRI +4, MHP -10%
+When equipped with the Chakram, increases critical attack damage by 40%, CRI +4, Max HP -10%
 Type : ^777777Accessory^000000 
 Defense : ^7777773^000000
 Weight : ^77777740^000000
