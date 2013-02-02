@@ -250,49 +250,48 @@ Able to request again after 1 day#
 ¶±Æê Áö±Ş.#
 #
 
-1145#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-¹èÅ» ³­ °íºÀÀÌÀÇ ºÎÅ¹ µé¾îÁÖ±â. ºÎµÎ ±ÙÃ³·Î °¡¼­ ¼ö»óÇÑ ´ëÈ­¸¦ ¿³µèÀÚ.#
-¸ğÀÚ¶õ °í¾çÀÌ ±ÙÃ³.#
+1145#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Do a favour to Gobong who's stomach is upset. Go to the port and try to listen to the suspious conversation.#
+Near the Foolish Cat.#
 
-1146#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-¼ö»óÇÑ »óÀÎµé¿¡°Ô¼­ ¼û°Ü µĞ ¹°°Ç¿¡ °üÇÑ ´ëÈ­¸¦ ¿³µé¾ú´Ù. ³ªºñÈ£ ºÏÂÊ Ç³¼±¹Ù±¸´Ï ±ÙÃ³¸¦ Á¶»çÇØ º¸ÀÚ.#
+1146#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+From the suspious dealers, you listened on the conversation about the hidden object. Check the area around the balloon bag which is north of ship Navi.#
+
+1147#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+The only thing you found is a useless memo. Go to listen to the dealers a bit more.#
+Near the Foolish Cat.#
+
+1148#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Through the conversation of the suspious dealers, you realised that the hidden place is ship Navi itself. Find another suspicious cat on the deck of ship Navi.#
+Deck of ship Navi.#
+
+1149#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+According to the Awfully suspious dealer, you decided to look around Gozangee.#
+ship Navi lounge.#
+
+1150#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+You found a sack of bad cans on the deck of ship Navi. You need to see the Awfully Suspious Dealer again.#
+Deck of ship Navi.#
+
+1151#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Gather 30 Bad cans in Starry Coral Area and go back to Gobonge.#
 #
 
-1147#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-Ã£Àº °ÍÀº ¾û¶×ÇÑ ¸Ş¸ğ »ÓÀÌ´Ù. »óÀÎµé ´ëÈ­¸¦ Á» ´õ µé¾îº¸ÀÚ.#
-¸ğÀÚ¶õ °í¾çÀÌ ±ÙÃ³.#
+1152#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Helping bad cats mission completed.# 
+After 1 day, you can help them again.#
 
-1148#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-¼ö»óÇÑ »óÀÎµéÀÇ ´ëÈ­¸¦ ÅëÇØ ¼û°Ü µĞ Àå¼Ò°¡ ³ªºñÈ£ÀÓÀ» ¾Ë°Ô µÈ´Ù. ³ªºñÈ£ °©ÆÇ¿¡¼­ ¶Ç´Ù¸¥ ¼ö»óÇÑ °í¾çÀÌ¸¦ Ã£¾Æº¸ÀÚ.#
-³ªºñÈ£ °©ÆÇ.#
+1153#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Go to see Patrol leader and say hello for Gobonge.#
+Patrol leader.#
 
-1149#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-¹«ÁøÀå ¼ö»óÇÑ »óÀÎÀÇ ¸»¿¡ µû¶ó ³ªºñÈ£ ¶ó¿îÁö¿¡¼­ °íÀåÀÌ ±ÙÃ³¸¦ Á¶»çÇØ º¸±â·Î ÇÑ´Ù.#
-³ªºñÈ£ ¶ó¿îÁö.#
+1154#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+After cleaning up 20 Red Eruma in Starry Coral Area, report that to Patrol Leader.#
+Patrol leader.#
 
-1150#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-³ªºñÈ£ ¶ó¿îÁö¿¡¼­ ºÒ·® ÅëÁ¶¸² ÀÚ·ç¸¦ ¹ß°ßÇß´Ù. ¹«ÁøÀå ¼ö»óÇÑ »óÀÎÀ» ´Ù½Ã ¸¸³ª º¼ ÇÊ¿ä°¡ ÀÖ°Ú´Ù.#
-³ªºñÈ£ °©ÆÇ.#
-
-1151#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-º°ºû »êÈ£Áö´ë¿¡¼­ ºÒ·® ÅëÁ¶¸² 30°³¸¦ ¸ğÀº µÚ °íºÀÀÌ¿¡°Ô º¸°íÇÏÀÚ.#
-#
-
-1152#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-ºÒ·® °í¾çÀÌ µ½±â Á¾·á.#
-ÇÏ·ç°¡ Áö³­ µÚ ÀçÀÇ·Ú °¡´É.#
-
-1153#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-¹æ¹ü´ëÀåÀ» Ã£¾Æ°¡ °íºÀÀÌÀÇ ¾ÈºÎ¸¦ ÀüÇÏÀÚ.#
-¹æ¹ü´ëÀå.#
-
-1154#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-º°ºû»êÈ£Áö´ë¿¡¼­ »¡°­ ¿¡·ç¸¶ 20¸¶¸®¸¦ ÇØÄ¡¿î µÚ, ¹æ¹ü´ëÀå¿¡°Ô º¸°í.#
-¹æ¹ü´ëÀå.#
-
-1155#À§±â¿¡ Ã³ÇÑ ºÒ·® °í¾çÀÌµéÀ» µµ¿Í¶ó!#SG_FEEL#QUE_NOIMAGE#
-°íºÀÀÌ¿¡°Ô ºÒ·®È°µ¿ º¸°í.#
-°íºÀÀÌ#
+1155#Help the Bad Cats in Danger!#SG_FEEL#QUE_NOIMAGE#
+Report Bad action to Gobonge.#
+Gobonge#
 
 1156#µ¿¿äÇÏ´Â µ¿³×ÇÕÃ¢´Ü!#SG_FEEL#QUE_NOIMAGE#
 Ã¹ ¹øÂ° ¹Ì¼Ç - [¹äÁı ¾Æ±â] ¹äÁı ¾Æºü°¡ ¶á±İ¾øÀÌ ¸®Çã¼³À» Áß´Ü½ÃÄ×´Ù. »çÁ¤À» µé¾îº¸ÀÚ.#
@@ -2794,9 +2793,9 @@ Hunt 30 Neraid monsters at Comodo Dungeon and return to the second floor of the 
 Hunt 30 Disguise monsters at Nifflheim and return to the second floor of the Eden Group Headquarters.#
 #
 
-4197#º¯ÅÂ ¹®¾î#SG_FEEL#QUE_NOIMAGE#
-¹®¾î ³à¼®Àº ÇÑ ½Ã°£¿¡ ÇÑ ¹ø ³ªÅ¸³­´Ù°í ÇÑ´Ù.#
-1½Ã°£¿¡ ÇÑ¹ø ³ªÅ¸³ª´Â ¹®¾î#
+4197#Octopus#SG_FEEL#QUE_NOIMAGE#
+The Octopus appears every 3 hours.#
+The next time of its appearance: 3 hours#
 
 4198#86-90 Mission Board Timer#SG_FEEL#QUE_NOIMAGE#
 You must wait 3 hours before re-taking the Dragon Tail Hunting Quest.#
@@ -2922,9 +2921,9 @@ You must wait 3 hours before re-taking the Disguise Hunting Quest.#
 Á¸´Ù ÀÌº¥Æ® °É¿¡°Ô¼­ ¾î¸Ó´ÏÀÇ ¸¶À½À» ¹Ş¾Ò´Ù.#
 #
 
-4229#µ¿±¼ÀÇ ¾Ç¸¶#SG_FEEL#QUE_NOIMAGE#
-Áö±İÀº ³ªÅ¸³ªÁö ¾Ê°í ÀÖ´Ù°í ÇÑ´Ù.ÇÏ·ç°¡ Áö³­ µÚ ´Ù½Ã ¿ÀÀÚ.#
-ºÎ¿Í¾ß Àº½ÅÁß#
+4229#Devil in the Cave#SG_FEEL#QUE_NOIMAGE#
+People say the monster is not appearing at the moment. Should come back tomorrow.#
+Buwaya in hiding#
 
 4230#Those who came back alive#SG_FEEL#QUE_NOIMAGE#
 Bring 2 pieces of Rusty screw to the dead man on the International airplane#
@@ -3394,141 +3393,141 @@ Hunt 15 Tamruan, and report back to the ^0000FFHeaven's Recruit Board 71 - 85^00
 Heaven's Recruit Board levels 71-85 requests you to go help the festival get ready.#
 Go gather 30 things?, and report back to the ^0000FFHeaven's Recruit Board 71 - 85^000000.#
 
-5058#¼±¼öµéÀÇ ºĞÀ§±â-(1)#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî'ÀÇ 10¿¬ÆĞ Å»ÃâÀ» À§ÇÑ ´ÜÀå °í¾çÀÌÀÇ °í¹Î!!#
-°¨µ¶ °í¾çÀÌ¿¡°Ô ¿äÁò '³ÉÀÌ °ÔÀÌ¸ÓÁî'¼±¼öµéÀÇ ºĞÀ§±â¸¦ ¹°¾îº»´Ù.#
+5058#The mood of the players-(1)#SG_FEEL#QUE_NOIMAGE#
+Cat gamers Director's worry for escaping from a 10-game losing streak!!#
+Ask director of cat about the current mood of Nyang gamers players.#
 
-5059#¼±¼öµéÀÇ ºĞÀ§±â-(2)#SG_FEEL#QUE_NOIMAGE#
-°¨µ¶ °í¾çÀÌ¿¡°Ô ¼±¼öµéÀÇ ºĞÀ§±â¸¦ µé¾ú´Ù.#
-´ÜÀå °í¾çÀÌ¿¡°Ô ÀüÇØÁÖÀÚ.#
+5059#The mood of the players-(2)#SG_FEEL#QUE_NOIMAGE#
+Heard about the mood of the players from the director.#
+Let's send to Cat gamers Director.#
 
 5060#Cat Shock#SG_FEEL#QUE_NOIMAGE#
-´ÜÀå °í¾çÀÌ°¡ Å« Ãæ°İÀ» ¹Ş¾Ò´Ù.#
-´ÜÀå °í¾çÀÌ¿¡°Ô Àá½Ã »ı°¢ÇÒ ½Ã°£À» Áà¾ß ÇÒ °Í °°´Ù.#
+Cat gamers Director was big shocked.#
+Cat gamers Director might need a time to think.#
 
-5061#³»°¡ ¹«¼·´Ï?#SG_FEEL#QUE_NOIMAGE#
-¾ó¸¶ Àü ÆÀÀ» ³ª°£ °í¾çÀÌµé ´ÜÀå °í¾çÀÌ´Â ±×µéÀÌ ÀÚ½ÅÀÌ ¹«¼­¿ö ÆÀÀ» ³ª°£ °ÇÁö ±Ã±İÇØ ÇÑ´Ù. ¸¶À»¿¡¼­ ÆÀÀ» ³ª°£ °í¾çÀÌ ÀÌ·ù, ½ºÆ©, ÄÉÂı, ÀÌÇÁ¸¦ Ã£¾Æº¸ÀÚ.#
-´ÜÀå °í¾çÀÌ°¡ ²À! ³ÍÁö½Ã ¹°¾îºÁ ÁÖ±æ ¹Ù¶ø´Ï´Ù.#
+5061#Am I scared?#SG_FEEL#QUE_NOIMAGE#
+Cat gamers Director wonders leaving cats are scared me or not.. Let's find leaving cat Eryu, Stew, Ketchup, Eff.#
+Please, Cat gamers Director ask about it.#
 
-5062#ÀÌ·ù¸¦ ¸¸³µ½À´Ï´Ù.#SG_FEEL#QUE_NOIMAGE#
-ÀÌ·ù¸¦ ¸¸³µ½À´Ï´Ù.#
-ÀÌ·ù¸¦ ¸¸³µ½À´Ï´Ù.#
+5062#I met Eryu.#SG_FEEL#QUE_NOIMAGE#
+I met Eryu.#
+I met Eryu.#
 
-5063#½ºÆ©¸¦ ¸¸³µ½À´Ï´Ù.#SG_FEEL#QUE_NOIMAGE#
-½ºÆ©¸¦ ¸¸³µ½À´Ï´Ù.#
-½ºÆ©¸¦ ¸¸³µ½À´Ï´Ù.#
+5063#I met Stew.#SG_FEEL#QUE_NOIMAGE#
+I met Stew.#
+I met Stew.#
 
-5064#ÄÉÂıÀ» ¸¸³µ½À´Ï´Ù.#SG_FEEL#QUE_NOIMAGE#
-ÄÉÂıÀ» ¸¸³µ½À´Ï´Ù.#
-ÄÉÂıÀ» ¸¸³µ½À´Ï´Ù.#
+5064#I met Ketchup.#SG_FEEL#QUE_NOIMAGE#
+I met Ketchup.#
+I met Ketchup.#
 
-5065#ÀÌÇÁ¸¦ ¸¸³µ½À´Ï´Ù.#SG_FEEL#QUE_NOIMAGE#
-ÀÌÇÁ¸¦ ¸¸³µ½À´Ï´Ù.#
-ÀÌÇÁ¸¦ ¸¸³µ½À´Ï´Ù.#
+5065#I met Eff.#SG_FEEL#QUE_NOIMAGE#
+I met Eff.#
+I met Eff.#
 
-5066#¹«¼­¿î ÀÌ¹ÌÁö-(1)#SG_FEEL#QUE_NOIMAGE#
-´ÜÀå °í¾çÀÌ´Â ¹«¼­¿î ÀÌ¹ÌÁö¸¦ ¹Ù²Ù°í ½Í¾îÇÑ´Ù.#
-´ÜÀå °í¾çÀÌ°¡ ½ÅÀÓÇÏ´Â °¨µ¶ °í¾çÀÌ¿¡°Ô ¹°¾îº¸°í ¿ÀÀÚ.#
+5066#Scary image-(1)#SG_FEEL#QUE_NOIMAGE#
+Cat gamers Director wants to change his Scary image.#
+Let me ask director cat who is accredited by Cat gamers Director.#
 
-5067#¹«¼­¿î ÀÌ¹ÌÁö-(2)#SG_FEEL#QUE_NOIMAGE#
-°¨µ¶ °í¾çÀÌèØ ¹«¼­¿î ÀÌ¹ÌÁö¶ó..³É Èûµé°Ú´Ù³É.. ´ÜÀå °í¾çÀÌµµ Âü.. Æ÷±âÇÏ¸é ÆíÇÑµ¥³É... ¼Ò¿ø¼ö¸®´Ù³É!! Àú ¼¼»ó ¾îµò°¡ ±º ¹¹¶õ ´ÜÃ¼¿¡¼­ ÀÌ·± °É ÇÑ´Ù°í µé¾ú´Ù³É~#
-´ÜÀå °í¾çÀÌ¿¡°Ô ¼Ò¿ø¼ö¸®¸¦ À§ÇÑ »óÀÚ¸¦ ÁØºñÇÏ¶ó°í ¾Ë¸®ÀÚ.#
+5067#Scary image-(2)#SG_FEEL#QUE_NOIMAGE#
+Director cat said "Scary image?| that is really hard.. Why does not giving up.. Tthat will be easy?|collecting complaint... !! I heard that sometimes army do that~#
+Tell Cat gamers Director, bring a box for collecting complaint.#
 
-5068#¼Ò¿ø ¼ö¸®#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî' ¼Ò¼Ó °í¾çÀÌµé¿¡°Ô ¼Ò¿ø¼ö¸®¸¦ ¹Ş°í ÀÖ½À´Ï´Ù.#
-¼Ò¿ø¼ö¸®´Â µü! 20½Ã°£¸¸ ¹Ş´Â´Ù°í ÇÕ´Ï´Ù.#
+5068#Collecting complaint#SG_FEEL#QUE_NOIMAGE#
+We are collecting complaint from 'Nyang Gamers' players.#
+Collecting time is only for 20 hours.#
 
-5069#¸í¿¹ÁõÇ¥#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî' ±â¼ú ÆÀÀÇ ³ë·Â°ú °í»ıÀÇ Áı¾àÃ¼ ¸í¿¹ÁõÇ¥¸¦ Á¦ÀÛ ÁßÀÔ´Ï´Ù.#
-1½Ã°£ ÈÄ ´ÜÀå °í¾çÀÌ¿¡°Ô ¸í¿¹ÁõÇ¥¸¦ Ã£À¸·¯ ¿À¼¼¿ä.#
+5069#Token of honor#SG_FEEL#QUE_NOIMAGE#
+Now, we are producing a token of honor that is the efforts and suffering of the Nyang's technical team .#
+Please, come back 1 hour later and get the token of honor from Cat gamers Director.#
 
-5070#°¡À§¹ÙÀ§º¸ ¿¬½À°æ±â#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî'¼Ò¼Ó °¡À§¹ÙÀ§º¸ ¼±¼ö¿Í ¿¬½À°æ±â¸¦ Çß½À´Ï´Ù.#
-´ÙÀ½ ¿¬½À°æ±â´Â 24½Ã°£ ÈÄ ÀÖ½À´Ï´Ù.#
+5070#Practice matach of Rock-paper-scissors#SG_FEEL#QUE_NOIMAGE#
+I have a rock-paper-scissors practice match with player of 'Nyang gamers'.#
+The next practice will be after 24 hours.#
 
-5071#ÂüÂüÂü ¿¬½À°æ±â#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî'¼Ò¼Ó ÂüÂüÂü ¼±¼ö¿Í ¿¬½À°æ±â¸¦ Çß½À´Ï´Ù.#
-´ÙÀ½ ¿¬½À°æ±â´Â 24½Ã°£ ÈÄ ÀÖ½À´Ï´Ù.#
+5071#Practice matach of Charmcharmcharm#SG_FEEL#QUE_NOIMAGE#
+I have a Charmcharmcharm practice match with player of 'Nyang gamers'.#
+The next practice will be after 24 hours.#
 
-5072#²Ç³É²Ç ¿¬½À°æ±â#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî'¼Ò¼Ó ²Ç³É²Ç ¼±¼ö¿Í ¿¬½À°æ±â¸¦ Çß½À´Ï´Ù.#
-´ÙÀ½ ¿¬½À°æ±â´Â 24½Ã°£ ÈÄ ÀÖ½À´Ï´Ù.#
+5072#Kong nyang kong Practice match#SG_FEEL#QUE_NOIMAGE#
+I have a practice match with Kong nyang kong in 'Nyang gamers'.#
+The next practice will be after 24 hours.#
 
-5073#±ê¹ß Èçµé±â µµÀü#SG_FEEL#QUE_NOIMAGE#
-'³ÉÀÌ °ÔÀÌ¸ÓÁî'¼Ò¼Ó ±ê¹ß Èçµé±â ÆÀ¿¡°Ô µµÀüÇß½À´Ï´Ù.#
-´ÙÀ½ µµÀüÀº 24½Ã°£ ÈÄ ÀÔ´Ï´Ù.#
+5073#Challenging of flag wave#SG_FEEL#QUE_NOIMAGE#
+'I challenged team of flag wave in 'Nyang gamers'.#
+The next challenge will be after 24 hours.#
 
-5074#°í¾çÀÌ ½Ä»ç#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FF¸ÀÀÖ´Â ÈÓ 30, º°½Ä »ı¼±ÀÇ ²¿¸® 10^000000'ÀÌ¶ó ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5074#Cat's Meal#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match. '^0000FFDelicious Phen 30, Special fish tail 10^000000' is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5075#º¸¾ç½Ä#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FF¸¶¸£½º 50¸¶¸®, ¿ìÀ¯ 30^000000'ÀÌ¶ó ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5075#Health food#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFMarse 50, Milk 30^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5076#¿ø¼öµé¡¦#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FFÄÚº¼Æ® ¾ÆÃÄ 30¸¶¸®¸¦ ±«·ÓÇôÁà^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5076#enemies#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFAnnoy 30 Kobold Archer^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5077#¼ø¹ß·Â ÈÆ·Ã#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FFÅ©·¥ÇÁ 10¸¶¸®¸¦ Àâ¾Æ¿Í^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5077#Reaction Training#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFCatch 10 Cramp^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5078#¼ÒÈ­ ÀßµÇ´Â »õ°í±â#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FFÆäÄÚÆäÄÚ »õ°í±â 50¸¶¸®^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5078#Light bird food#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFPecopeco bird meat 50^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5079#¸¶À½À» ¾ÈÁ¤ÇÏ´Â ¹ı#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FFÅĞ½Ç 20 ´ÜÀå °í¾çÀÌ¿¡°Ô^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5079#How to stabilize the mind#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFTo Cat gamers Director Yarn 20^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5080#°£½ÄºÎÁ·#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FFÁãÀÇ ²¿¸® 30^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5080#Lack of Snack#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFRat Tail 30^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5081#±İÁö½ÄÇ°#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FF·¹¸ó 5°³^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5081#Banned foods#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFLemon 5^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5082#½Ã¿øÇÑ À½½Ä#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÂÊÁöÀÌ´Ù. '^0000FF¾óÀ½Á¶°¢ ¶Ç´Â ¾ÆÀÌ½ºÅ©¸² 10°³^000000'¶ó°í ÀûÇôÀÖ´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5082#Cool food#SG_FEEL#QUE_NOIMAGE#
+I received this paper because I lost the practice match.. '^0000FFIce cube or ice cream 10^000000'is written here.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5083#ÀÌ·ù¾ß µ¹¾Æ¿ÍÁà-(1)#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÀÏ. ÀÌ·ù¸¦ Ã£¾Æ¼­ '^0000FFµ¹¾Æ¿À¶ó^000000'¶õ ¸»À» ÀüÇÏÀÚ.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5083#Please come back Eryu-(1)#SG_FEEL#QUE_NOIMAGE#
+Work that I got because I lost the practice match. Meet Eryu and said '^0000FFCome back^000000'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5084#ÀÌ·ù¾ß µ¹¾Æ¿ÍÁà-(2)#SG_FEEL#QUE_NOIMAGE#
-ÀÌ·ù¸¦ Ã£¾Æ¼­ 'µ¹¾Æ¿À¶ó'¶õ ¸»À» ÀüÇß´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5084#Please come back Eryu-(2)#SG_FEEL#QUE_NOIMAGE#
+I met Eryu and said 'come back'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5085#½ºÆ©¾ß µ¹¾Æ¿ÍÁà-(1)#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÀÏ. ½ºÆ©¸¦ Ã£¾Æ¼­ '^0000FFµ¹¾Æ¿À¶ó^000000'¶õ ¸»À» ÀüÇÏÀÚ.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5085#Please come back Stew-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor that I reveiced because I lost the practice match. Meet Stew and said '^0000FFCome back^000000'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5086#½ºÆ©¾ß µ¹¾Æ¿ÍÁà-(2)#SG_FEEL#QUE_NOIMAGE#
-½ºÆ©¸¦ Ã£¾Æ¼­ 'µ¹¾Æ¿À¶ó'¶õ ¸»À» ÀüÇß´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5086#Please come back Stew-(2)#SG_FEEL#QUE_NOIMAGE#
+I met Stew and said 'come back'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5087#ÄÉÂı¾Æ µ¹¾Æ¿ÍÁà-(1)#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÀÏ. ÄÉÂıÀ» Ã£¾Æ¼­ '^0000FFµ¹¾Æ¿À¶ó^000000'¶õ ¸»À» ÀüÇÏÀÚ.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5087#Please come back Ketchup-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor that I reveiced because I lost the practice match. Meet Ketchup and said '^0000FFCome back^000000'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5088#ÄÉÂı¾Æ µ¹¾Æ¿ÍÁà-(2)#SG_FEEL#QUE_NOIMAGE#
-ÄÉÂıÀ» Ã£¾Æ¼­ 'µ¹¾Æ¿À¶ó'¶õ ¸»À» ÀüÇß´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5088#Please come back Ketchup-(2)#SG_FEEL#QUE_NOIMAGE#
+I met Ketchup and said 'come back'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5089#ÀÌÇÁ¾ß µ¹¾Æ¿ÍÁà-(1)#SG_FEEL#QUE_NOIMAGE#
-¿¬½À°æ±â¿¡¼­ Á®¼­ ºÎÅ¹ ¹ŞÀº ÀÏ. ÀÌÇÁ¸¦ Ã£¾Æ¼­ '^0000FFµ¹¾Æ¿À¶ó^000000'¶õ ¸»À» ÀüÇÏÀÚ.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5089#Please come back Eff-(1)#SG_FEEL#QUE_NOIMAGE#
+Favor that I reveiced because I lost the practice match. Meet Eff and said '^0000FFCome back^000000'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5090#ÀÌÇÁ¾ß µ¹¾Æ¿ÍÁà-(2)#SG_FEEL#QUE_NOIMAGE#
-ÀÌÇÁ¸¦ Ã£¾Æ¼­ 'µ¹¾Æ¿À¶ó'¶õ ¸»À» ÀüÇß´Ù.#
-ºÎÅ¹ ¹ŞÀº ÀÏÀ» ¸¶Ä¡¸é ´ÜÀå °í¾çÀÌ¿¡°Ô º¸°íÇÏ¸é µË´Ï´Ù.#
+5090#Please come back Eff-(2)#SG_FEEL#QUE_NOIMAGE#
+I met Eff and said 'Come back'.#
+When you finish your job, Please report to Cat gamers Director.#
 
-5091#¸»¶ûµµ·Î#SG_FEEL#QUE_NOIMAGE#
-¸»¶ûµµ·Î..#
-¸»¶ûµµ#
+5091#Go Malangdo#SG_FEEL#QUE_NOIMAGE#
+Go Malangdo..#
+Malangdo#
 
 5092#Unlocking the ultimate Mediocrity#SG_FEEL#QUE_NOIMAGE#
 Search for a novice in the northern dungeon of Comodo. He can show a super novice how to maximize their potential.#
@@ -3665,6 +3664,27 @@ Defeat 7 Messenger of Angel.#
 5125#[¾È½Ä] Áı½Ã#SG_FEEL#QUE_NOIMAGE#
 ÆøÁÖÇÏ°í ÀÖ´Â ½ÇÇèÃ¼µéÀ» ¸·±â À§ÇØ¼± ´ëÀå °İÀÎ º¸½º ¸ó½ºÅÍ¸¦ Ã³¸®ÇØ¾ß ÇÑ´Ù.#
 Áı½Ã Æ®·»Æ¼´Ï¸¦ ¸·¾Æ¶ó!!#
+
+5126#°ËÖ¸Ò¯Ò¯#SG_FEEL#QUE_NOIMAGE#
+°ËÖ¸Ò¯Ò¯#
+°ËÖ¸Ò¯Ò¯#
+
+5127#°ËÖ¸Ò¯Ò¯#SG_FEEL#QUE_NOIMAGE#
+ÊÕ¼¯^0000FFÏõËá¼Ø·ÛÄ©^000000 20¸öºó½»¸ø°ËÖ¸Ò¯Ò¯¡£#
+^0000FFÏõËá¼Ø·ÛÄ©^000000ÊÇ´Ó»î¶¯¹ÖÎïÉíÉÏµôÂä¡£#
+
+5128#°ËÖ¸Ò¯Ò¯#SG_FEEL#QUE_NOIMAGE#
+¼ÍÄî½ÚÇìµÄ'ÏõËá¼Ø·ÛÄ©'ÈÔ²»×ã¡£#
+ÊÕ¼¯^0000FFÏõËá¼Ø·ÛÄ©^000000 20¸öºó½»¸ø°ËÖ¸Ò¯Ò¯£¬¼´¿É¶Ò»»Êı×ÖÑÌ»ğ¡£#
+
+5129#ËïÒ¯Ò¯#SG_FEEL#QUE_NOIMAGE#
+ËïÒ¯Ò¯#
+ËïÒ¯Ò¯#
+
+5130#ËïÒ¯Ò¯#SG_FEEL#QUE_NOIMAGE#
+Ğ¡Íµ°ÑËïÒ¯Ò¯µÄÖØÒªÎÄ¼ş¸øÍµ×ßÁË£¬ÇëÕÒ»ØĞ¡ÍµÇÔ×ßµÄ^0000FFËºËéµÄÎÄ¼ş^000000 10¸ö°É!#
+^0000FFËºËéµÄÎÄ¼ş^000000É¢²¼ÔÚÆÕÂ¡µÂÀ­ (prt_fild02, prt_fild07)¡¢ì³Ñï (pay_fild01, pay_fild07)¡¢ÃÎÂŞ¿Ë(moc_fild07, moc_fild12)µÈÔ­Ò°¸½½ü¡£#
+
 
 5131#ÀÇ¹®ÀÇ ´ëÈ­#SG_FEEL#QUE_NOIMAGE#
 ´ëÈ­¸¦ ¿³µè°Ô µÇ¾ú´Ù. ½ÃÇèÀÇ ÀÏºÎ¶ó´Ï? ¹«½¼ ÀÌ¾ß±âÀÏ±î?#
@@ -4154,12 +4174,12 @@ You heard from Snorren that Terra has been released.#
 Arc invited you to Terra's residence to talk about the details. Terra's home is one of hundreds of Yai hanging on the leaves, located at the South-East area of the post.#
 Go to Terra's Yai.#
 
-7072##SG_FEEL#QUE_NOIMAGE#
-#
-#
+7072#Á¤±âº¸°í¼­ - È¸¼ö#SG_FEEL#QUE_NOIMAGE#
+^4d4dff½ºÇÃ¶ûµğµåÀÇ ·ÎÄû¿£^000000°ú ^4d4dff¸¶´©Å©ÀÇ Å»¶õ^000000¿¡°Ô¼­ Á¤±âº¸°í¼­¸¦ ¹Ş¾Æ¿À´Â ÀÏÀ» ¸Ã¾Ò´Ù.#
+½ºÇÃ¶ûµğµåÀÇ Á¤±â º¸°í¼­ 1ºÎ, ¸¶´©Å©ÀÇ Á¤±âº¸°í¼­ 1ºÎ#
 
-7073##SG_FEEL#QUE_NOIMAGE#
-#
+7073#Á¤±âº¸°í¼­ - ´ë±â#SG_FEEL#QUE_NOIMAGE#
+´ÙÀ½ Á¤±âº¸°í¼­´Â ÇÏ·ç°¡ Áö³­ ´ÙÀ½¿¡ ÀÛ¼ºµÇ¹Ç·Î ±â´Ù·Á¾ß ÇÕ´Ï´Ù. Á¤±âº¸°í¼­ÀÇ È¸¼öÀÏÀ» °è¼Ó ÇÏ°í ½Í´Ù¸é º¸°í¼­ È¸¼ö½Ã°£ÀÌ µÇ¾úÀ»¶§ ¿øÁ¤´ëÀÇ '¶ó¿ì·¹¾Æ'¸¦ ¸¸³ª¸é µË´Ï´Ù.#
 #
 
 7074#Rata Hunt#SG_FEEL#QUE_NOIMAGE#
@@ -4544,10 +4564,12 @@ Find the place where the crytogram indicates.#
 
 7169#Mysterious Cryptogram - 3rd#SG_FEEL#QUE_NOIMAGE#
 Received the cryptogram and keyword that Paul had. [R-E-N-N-N-D / L-N-N-W-W-N-D ] These cryptogram seems indicate the place name and direction. The separate keyword is [FOOT]#
+Find the place where the crytogram indicates.
 #
 
 7170#Mysterious Cryptogram - 3rd#SG_FEEL#QUE_NOIMAGE#
 You received the cryptogram and keyword that Paul had. [R-E-N-N-N-D / L-N-N-W-W-N-D ] These cryptogram seems indicate the place name and direction. The separate keyword is [COLD]#
+Find the place where the crytogram indicates.
 #
 
 7171#Hunt the Shadow of Illusion#SG_FEEL#QUE_NOIMAGE#
@@ -4834,405 +4856,412 @@ Return to Thorn after waiting 24 hours.#
 ¸»¶ûµµ¿¡¼­ ¸¸³­ º£Å×¶û ¼±¿ø ¶óÅäÀÇ ºÎÅ¹ÀÌ´Ù. ¾ÆÁ÷ ¾î¸° °í¾çÀÌµéÀ» °ÆÁ¤ÇÏ¸ç ±× ¾ÆÀÌµéÀ» Ã£¾Æ °°ÀÌ ³î¾Æ ´Ş¶ó°í Çß´Ù. ¶óÅä°¡ ¸»ÇÑ ¾î¸°°í¾çÀÌµéÀ» Ã£¾Æº¸ÀÚ. ÈòÅĞÀÇ ·Î½Ã, °ËÀºÅĞÀÇ ·ÎÄí. ³ë¶õÅĞÀÇ Â÷·Î´Ù.#
 #
 
-7243#³Äµåº¥ÃÄ-µÎ·çµÎ·ç ³ªÄ§¹İ#SG_FEEL#QUE_NOIMAGE#
-ÀÚÄª ¾ß¿Ë ¸ğÇè´ÜÀÌ¶ó´Â ¾î¸° °í¾çÀÌµé·ÎºÎÅÍ ¸ğÇèÄ«µå A¸¦ ¹Ş¾Ò´Ù. ¾ß¿Ë´Ü¿¡¼­ ¸¸µç ¿©·¯°¡Áö ÀåÄ¡¸¦ ÀÛµ¿ÇÏ±â À§ÇØ ÇÊ¿äÇÑ ¸ğ¾çÀÌ´Ù. ½ÃÀÛÀÇ ³ªÄ§¹İ¿¡ Ä«µå¸¦ Áı¾î ³ÖÀ¸¸é °ÔÀÓÀÌ ½ÃÀÛµÈ´Ù.#
+7243#Nyadventure-Duruduru Compass#SG_FEEL#QUE_NOIMAGE#
+You received Adventure card A from the baby cats who called themselved 'Mew Bravery Team'. The card seems necessary for operating some devices made by the Mew Bravery Team. If you insert the card into the Compass of Beginning, the game starts.#
 #
 
-7244#³Äµåº¥ÃÄ-µÎ·çµÎ·ç ´Ş¸®±â#SG_FEEL#QUE_NOIMAGE#
-µÎ·çµÎ·ç ³ªÄ§¹İ ´Ş¸®±â°¡ ½ÃÀÛµÇ¾ú´Ù. Á¦ÇÑ ½Ã°£³»¿¡ ¸ğµç ³ªÄ§¹İÀ» ¼ø¼­´ë·Î µ¹¾Æ¾ß ÇÑ´Ù. ³ªÄ§¹İÀÇ ¼ø¼­´Â [È«¿°] -> [Ã¢È­] -> [±İ»ç] -> [½Å·Ï] -> [¹é¿î] ÀÌ´Ù.#
+7244#Nyadventure-Duruduru Race#SG_FEEL#QUE_NOIMAGE#
+Duruduru Compass Race got started. You have to turn around all the area in order within a limited time. The order of the compass is [Red Flame] -> [Blue Flame] -> [Gold Flame] -> [Forest] -> [Cloud].#
 #
 
-7245#³Äµåº¥ÃÄ-µÎ·çµÎ·ç ´Ş¸®±â#SG_FEEL#QUE_NOIMAGE#
-µÎ·çµÎ·ç ³ªÄ§¹İ ´Ş¸®±â°¡ ½ÃÀÛµÇ¾ú´Ù. Á¦ÇÑ ½Ã°£³»¿¡ ¸ğµç ³ªÄ§¹İÀ» ¼ø¼­´ë·Î µ¹¾Æ¾ß ÇÑ´Ù. ³ªÄ§¹İÀÇ ¼ø¼­´Â [±İ»ç] -> [Ã¢È­] -> [¹é¿î] -> [½Å·Ï] -> [È«¿°] ÀÌ´Ù.#
+7245#Nyadventure-Duruduru Race#SG_FEEL#QUE_NOIMAGE#
+Duruduru Compass Race got started. You have to turn around all the area in order within a limited time. The order of the compass is [Gold Flame] -> [Blue Flame] -> [Cloud] -> [Forest] -> [Red Flame].#
 #
 
-7246#³Äµåº¥ÃÄ-Áö±İ ¸¸³ª·¯ °©´Ï´Ù.#SG_FEEL#QUE_NOIMAGE#
-Â÷·Î´Â ¸»¶ûµµÀÇ Áß¾Ó¿¡ ÀÖ´Â ³ªºñÈ£ ±ÙÃ³¿¡ ¸íÅ½Á¤ÀÌ ÀÖ´Ù°í ÇÑ´Ù. À§´ëÇÑ ¸íÅ½Á¤°ú ±× Ä£±¸¸¦ ¸¸³ªº¸ÀÚ.#
+7246#Nyadventure-I'm coming now.#SG_FEEL#QUE_NOIMAGE#
+Charo says that a detective cat is near ship Navi which is in the centre of Malangdo. Go to meet the detective and the friend.#
 #
 
-7247#³Äµåº¥ÃÄ-Äçµ¹ÀÌ¸¦ ¸ØÃç!#SG_FEEL#QUE_NOIMAGE#
-Á¤¸» Å½Á¤ÀÎÁö ¾Æ´ÑÁö ÀÇ½ÉÀÌ °¡Áö¸¸ ÀÚÄª Å½Á¤ÀÌ¶ó°í ¹àÈù È¨³Ä°ú ±× Ä£±¸ ³É½¼Àº ¹Ù·Î ¾Õ¿¡ ³õÀÎ ±â°è°¡ Æø¹ßÇÏ¸é ÀÌ ¼¶ÀÌ ³¯¾Æ°¥ °ÍÀÌ¶ó¸ç ¸ØÃç ´Ş¶ó°í ÇÑ´Ù.#
+7247#Nyadventure-Stop the Bang!#SG_FEEL#QUE_NOIMAGE#
+Homnya, a doubtful cat who called himself a 'real detective' and his friend Nyangson say that if the machine in front explodes, the whole Malangdo will be gone. So they ask you to stop the machine.#
 #
 
 7248##SG_FEEL#QUE_NOIMAGE#
 #
 #
 
-7249#³Äµåº¥ÃÄ-Äçµ¹ÀÌ!´ÙÀ½ ÀÌ ½Ã°£¿¡#SG_FEEL#QUE_NOIMAGE#
-È¨³Ä¿Í ³É½¼¿¡ ÀÇÇÏ¸é ÀÌ Äçµ¹ÀÌ¶ó´Â ±â°è´Â ¸Å¹ø ¹ßÀÛÀ» ÀÏÀ¸Å°´Â °Í °°´Ù. ¾ğÁ¦ ´Ù½Ã ÆøÁÖ ÇÒ Áö ¸ğ¸£´Ï, ³»ÀÏ ´Ù½Ã Ã£¾Æ°¡ º¸±â·Î Çß´Ù.#
+7249#Nyadventure-Bang! See you next time#SG_FEEL#QUE_NOIMAGE#
+According to Homnya and Nyangson, this machine named Bang makes problem every minute. You never know when you will be in trouble. You will go to see the Bang tomorrow.#
 #
 
-7250#³Äµåº¥ÃÄ-¼û°ÜÁø º¸¹°?#SG_FEEL#QUE_NOIMAGE#
-Äçµ¹ÀÌ¸¦ ¸ØÃßÀÚ È¨³Ä¿Í ³É½¼Àº ÁÁÀº Á¤º¸°¡ ÀÖ´Ù¸ç ¾Ë·ÁÁá´Ù. ¹Øµµ ³¡µµ ¾øÁö º¸¹°ÀÌ¶ó´À´Ï ÇÏ´Âµ¥, È¨³Ä°¡ ¸»ÇÏ´Â º¸¹°Àº ³ªºñÈ£ ³»ºÎ¿¡ ÀÖ´Ù´Â °Í. ¹«½¼ Àå³­ÀÎÁö´Â ¸ô¶óµµ Ã£¾Æº¸ÀÚ.#
+7250#Nyadventure-Hidden Treasure?#SG_FEEL#QUE_NOIMAGE#
+When the Bang stopped, Homnya and Nyangson gives you a useful information. They talk about treasure something. Homnya says the treasure is inside of ship Navi. It might be a kidding but worth to try. Let's go.#
 #
 
-7251#³Äµåº¥ÃÄ-Ã¹ ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-³ªºñÈ£¿¡ ÀÖ´ø »óÀÚ ¼Ó¿¡¼­ Ã£¾Æ³½ ±×¸² Á¶°¢#
+7251#Nyadventure-The First piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which you found in the box in ship Navi#
 #
 
-7252#³Äµåº¥ÃÄ-µÎ ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-³ªºñÈ£ ÁıÈ¸½Ç¿¡  ²ÈÇô ÀÖ´ø Ã¥ »çÀÌ¿¡¼­ Ã£¾Æ³½ ±×¸²Á¶°¢#
+7252#Nyadventure-The Second piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which was put in the book in ship Navi's meeting room#
 #
 
-7253#³Äµåº¥ÃÄ-¼¼ ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-¼±¿øµéÀÌ »ç¿ëÇÏ´Â ¼±½ÇÀÇ ³°Àº Ä§´ë¾Æ·¡¿¡¼­ Ã£¾Æ³½ ±×¸² Á¶°¢#
+7253#Nyadventure-The Third piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which you found under the old bed in the crew's cabin#
 #
 
-7254#³Äµåº¥ÃÄ-³× ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-¼±Àå½Ç¿¡ Àå½ÄµÇ¾î ÀÖ´ø Á¶°³²®Áú ¼Ó¿¡¼­ Ã£¾Æ³½ ±×¸²Á¶°¢#
+7254#Nyadventure-The Fourth piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which you found in the decoration seashell of the captain's room#
 #
 
-7255#³Äµåº¥ÃÄ-´Ù¼¸ ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-¼±Ã¢ÀÇ ³ª¹«±âµÕ Æ´»õ¿¡¼­ Ã£¾Æ³½ ±×¸² Á¶°¢#
+7255#Nyadventure-The Fifth piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which you found in the crack of wooden pillar#
 #
 
-7256#³Äµåº¥ÃÄ-¿©¼¸ ¹øÂ° ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-¼±½Ç ¹Ù´ÚÀÇ È¯Ç³±¸¿¡¼­ Ã£¾Æ³½ ±×¸² Á¶°¢#
+7256#Nyadventure-The Sixth piece of Painting#SG_FEEL#QUE_NOIMAGE#
+The piece of Painting which you found in the Ventilation window on the cabin floor#
 #
 
-7257#³Äµåº¥ÃÄ-´Ş¸®±â, ³»ÀÏ ÀÌ ½Ã°£¿¡!#SG_FEEL#QUE_NOIMAGE#
-µÎ·çµÎ·ç ´Ş¸®±â´Â ÇÏ·ç¿¡ ÇÑ ¹ø¸¸ ÇÏ´Â °ÍÀÌ °Ç°­¿¡µµ Á¤½Å¿¡µµ ÁÁ´Ù°í ÇÑ´Ù. ¶Ç ÇØº¸°í ½Í´Ù¸é ´ÙÀ½À» ±â¾àÇÏÀÚ.#
+7257#Nyadventure-Race, Come back tomorrow!#SG_FEEL#QUE_NOIMAGE#
+Duruduru Race is good if you only run once a day. If you want it, come back later.#
 #
 
-7258#³Äµåº¥ÃÄ-´Ù Ã£Àº ±×¸²Á¶°¢#SG_FEEL#QUE_NOIMAGE#
-¼±½ÇÀ» µÚÁ®¼­ Ã£¾Æ ³½ ±×¸² Á¶°¢Àº ¸ğµÎ ¿©¼¸ °³. Â¦ÀÌ ºüÁø ºÎºĞÀº ´õ ÀÌ»ó º¸ÀÌÁö ¾Ê´Â´Ù. Â÷·Î, ·Î½Ã, ·ÎÄí¿¡°Ô ÀüÇÏÀÚ.#
+7258#Nyadventure-Painting completed#SG_FEEL#QUE_NOIMAGE#
+Pieces you found in the ship are over all 6. It seems a complete painting. Go to Charo, Rosy Roku and let them know this.#
 #
 
-7259#¾ß¿Ë´ÜÀÇ ¼±¹°#SG_FEEL#QUE_NOIMAGE#
-Â÷·Î, ·Î½Ã, ·ÎÄí´Â Ã£¾Æ³½ ±×¸² Á¶°¢µéÀ» ¶óÅä¿¡°Ô ¼±¹°ÇÏ°í ½Í´Ù°í ÇÑ´Ù. ¾î¸° °í¾çÀÌµéÀÇ ¸¶À½ÀÌ (ºñ·Ï Á¶°¢ Á¶°¢ Âõ°Ü ÀÖÁö¸¸) ÀüÇØÁú ¼ö ÀÖµµ·Ï ¶óÅä¿¡°Ô °¡Á®°¡ÀÚ.#
+7259#Gift from the Mew Bravery Team#SG_FEEL#QUE_NOIMAGE#
+Charo, Rosy and Roku say that they want to give Rato the painting pieces found. Bring the painting to Rato in order to deliver the love of baby cats (even though the painting is torn apart).#
 #
 
-7260#¹ú·¹ ¹ß»ıÀÇ ±Ù¿øÁö#SG_FEEL#QUE_NOIMAGE#
-Ã»¼Ò¸¦ ¾Æ¹«¸® ²Ä²ÄÇÏ°Ô ÇØµµ ¾îµğ¼±°¡ ¹ú·¹°¡ ³ª¿Â´Ù¸ç ¿ï°í ÀÖ´Â Å¬¸®³É. Å¬¸®³ÉÀÌ Á¶¸®Àå¿¡°Ô ´õ ÀÌ»ó ¾ß´Ü¸ÂÁö ¾Êµµ·Ï ¹ú·¹ ¹ß»ıÀÇ ±Ù¿øÁö¸¦ Ã£¾Æ º¸±â·Î Çß´Ù. ³ªºñÈ£ °÷°÷À» ²Ä²ÄÇÏ°Ô µÚÁ®º¸ÀÚ.#
+//---- ¸»¶ûµµ Á¶¸®Àå
+7260#The origin of Bugs#SG_FEEL#QUE_NOIMAGE#
+Cleanyang's crying out loud saying that bugs appear over and over again although he cleans up the ship completely. Help him. Inspect ship Navi meticulously.#
 #
 
-7261#°í¾çÀÌ°Ç»§ ¼ö°Å-¼±Àå½Ç#SG_FEEL#QUE_NOIMAGE#
-¼±Àå½Ç ±¸¼®¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7261#Pick up Cat's Ship Biscuit-Captain's Room#SG_FEEL#QUE_NOIMAGE#
+In the corner of the captain's room, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7262#°í¾çÀÌ°Ç»§ ¼ö°Å-¼±¿ø½Ç#SG_FEEL#QUE_NOIMAGE#
-¼±¿ø½Ç ±¸¼®¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7262#Pick up Cat's Ship Biscuit-Crew's Cabin#SG_FEEL#QUE_NOIMAGE#
+In the sailor's room, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7263#°í¾çÀÌ°Ç»§ ¼ö°Å-ÁıÈ¸½Ç#SG_FEEL#QUE_NOIMAGE#
-ÁıÈ¸½Ç ±¸¼®¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7263#Pick up Cat's Ship Biscuit-Meeting Room#SG_FEEL#QUE_NOIMAGE#
+In somewhere in the meeting room, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7264#Á¶¸®Àå ³Ä½º¿¡°Ô#SG_FEEL#QUE_NOIMAGE#
-Å¬¸®³ÉÀº ¿­½ÉÈ÷ Ã»¼Ò¸¦ ÇßÁö¸¸ ¹ÌÃ³ ¼ÕÀÌ ´êÁö ¾Ê´Â ºÎºĞ¿¡ ¹æÄ¡µÇ¾î ÀÖ´ø °í¾çÀÌ°Ç»§ÀÌ ¸ğµç »ç°ÇÀÇ ¿øÈäÀÌ¾ú´Ù. ÀÌ »ç½ÇÀ» Á¶¸®Àå ³Ä½º¿¡°Ô ¾Ë¸®°í Å¬¸®³ÉÀÇ ¾ï¿ïÇÔÀ» Ç®¾îÁà¾ß ÇÒ °Í °°´Ù.#
-³Ä½º¿Í ´ëÈ­#
+7264#To Chef Nyas#SG_FEEL#QUE_NOIMAGE#
+Cleanyang did clean up all the ship, but the problem was those cat's hard biscuit which were kept beyond his reach. You should tell Nyas the truth and clear Cleanyang of the false charge.#
+Talking with Nyas#
 
-7265#Á¶¸®Àå ³Ä½ºÀÇ ºĞ³ë#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå¿¡°Ô °í¾çÀÌ°Ç»§°ú ¹ú·¹¿¡ ´ëÇÑ ÀÌ¾ß±â¸¦ ÀüÇÏÀÚ ±²ÀåÈ÷ È­¸¦ ³Â´Ù. Àá½Ã ÁøÁ¤ÀÌ µÉ ¶§±îÁö ±â´Ù·È´Ù°¡ ´Ù½Ã ÀÌ¾ß±â¸¦ ÁøÇàÇÏ´Â °ÍÀÌ ÁÁ°Ú´Ù.#
-³Ä½º¿Í ´ëÈ­#
+7265#Rage of Chef Nyas#SG_FEEL#QUE_NOIMAGE#
+When you told the story about the biscuit and the bugs, the chef got so angry. You'd better talk to him a little later.#
+Talking with Nyas#
 
-7266#Á¶¸®Àå ³Ä½ºÀÇ ¼±¾ğ#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â ¾ÕÀ¸·Î ½Ä´Ü¿¡ ÇÏ·ç¿¡ ÇÑ ³¢´Â ²À °í¾çÀÌ°Ç»§À¸·Î ÁÖ°Ú´Ù¸ç À¸¸§ÀåÀ» ³õ¾Ò´Ù. °í¾çÀÌ°Ç»§À» ¸¸µé±â À§ÇÑ Àç·á·Î °î½Ä 10´Ü°ú ´ã¹éÇÑ ¼Ò½º 1º´À» ±¸ÇØ ´Ş¶ó°í ¿äÃ»Çß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ ¼Ò½º 1º´, Å¬¸®³É¿¡°Ô ³Ä½ºÀÇ ¼±¾ğ Àü´Ş.#
+7266#Declaration of Chef Nyas#SG_FEEL#QUE_NOIMAGE#
+Nyas decided himself and declared that at least one meal a day will be cat's hard biscuit from now. He asked you to bring 10 bags of Grain and 1 bottle of Savory sauce for making the biscuits.#
+10 bags of Grain, 1 bottle of Savory Sauce, Deliver the message to Cleanyang.#
 
-7267#Å¬¸®³É°úÀÇ ¾à¼Ó½Ã°£#SG_FEEL#QUE_NOIMAGE#
-°í¾çÀÌ°Ç»§ »çÅÂ¸¦ ¼ö½ÀÇÏ±â À§ÇØ Å¬¸®³É°ú Çù·ÂÇÏ±â·Î Çß´Ù. ¾à¼ÓÇÑ ½Ã°£ÀÌ Áö³ª¸é Å¬¸®³ÉÀ» Ã£¾Æ°¡ º¸ÀÚ.#
+7267#Appointed time with Cleanyang#SG_FEEL#QUE_NOIMAGE#
+In order to solve the Cat's hard biscuit incident, you are going to work with Cleanyang. Go back to Cleanyang at the appointed time.#
 #
 
-7268#°í¾çÀÌ°Ç»§À» Ã£¾Æ¶ó!#SG_FEEL#QUE_NOIMAGE#
-°í¾çÀÌµéÀÌ »õ·ÎÀÌ °¨Ãß±â ½ÃÀÛÇÑ °í¾çÀÌ°Ç»§À» ¼ö°Å ÇØ ÁÖ±â·Î Çß´Ù. °í¾çÀÌ°Ç»§À» ¹Ù·Î ¹Ù·Î Ä¡¿î´Ù¸é ¹ú·¹´Â ´õ ÀÌ»ó ²¿ÀÌÁö ¾ÊÀ» °ÍÀÌ´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÚÁÖ ¹ß°ß µÇ´Â ¾ÆÈ© °³ÀÇ ½ºÆÌÀ» Áß½ÉÀ¸·Î µÚÁ®º¸ÀÚ.#
+7268#Find the Cat's hard biscuits!#SG_FEEL#QUE_NOIMAGE#
+You are gonna pick up the biscuits which cats on the ship started to hide. If the biscuits are taken, the bugs also will be gone. Focus on the 9 spots where the biscuits are frequently seen.#
 #
 
-7269#°í¾çÀÌ°Ç»§ ¼ö°Å-ÈŞ°Ô¼Ò#SG_FEEL#QUE_NOIMAGE#
-¾ß¿Ü ÈŞ°Ô¼Ò ÀâÃÊ »çÀÌ¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7269#Pick up Cat's Ship Biscuit-Rest Area#SG_FEEL#QUE_NOIMAGE#
+In the weed of outdoor rest area, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7270#°í¾çÀÌ°Ç»§ ¼ö°Å-¸ğ·¡¹ç#SG_FEEL#QUE_NOIMAGE#
-¸ğ·¡´õ¹Ì ¼Ó¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7270#Pick up Cat's Ship Biscuit-Sand area#SG_FEEL#QUE_NOIMAGE#
+In a strange pile of sand, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7271#°í¾çÀÌ°Ç»§ ¼ö°Å-°è´Ü¾Æ·¡#SG_FEEL#QUE_NOIMAGE#
-°è´Ü ¾Æ·¡ ±¸¼®¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7271#Pick up Cat's Ship Biscuit-Under the stairs#SG_FEEL#QUE_NOIMAGE#
+In the corner underneath stairs, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7272#°í¾çÀÌ°Ç»§ ¼ö°Å-Ä¹Å¸¿ö±¸¼®#SG_FEEL#QUE_NOIMAGE#
-Ä¹Å¸¿ö ±¸¼®¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7272#Pick up Cat's Ship Biscuit-Corner of Cat tower#SG_FEEL#QUE_NOIMAGE#
+In the corner of cat tower, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7273#°í¾çÀÌ°Ç»§ ¼ö°Å-»ç¹°ÇÔ Æ´»õ#SG_FEEL#QUE_NOIMAGE#
-»ç¹°ÇÔ Æ´»õ¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7273#Pick up Cat's Ship Biscuit-Corner of Locker#SG_FEEL#QUE_NOIMAGE#
+In the gap between the locker and the wall, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7274#°í¾çÀÌ°Ç»§ ¼ö°Å-Ä¹Å¸¿ö¹ßÆÇ#SG_FEEL#QUE_NOIMAGE#
-Ä¹Å¸¿ö ¹ßÆÇ Æ´»õ¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7274#Pick up Cat's Ship Biscuit-Foothold of Cat tower#SG_FEEL#QUE_NOIMAGE#
+In the gap between the foothold and the floor, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7275#°í¾çÀÌ°Ç»§ ¼ö°Å-¸ğ·¡¹«´ı#SG_FEEL#QUE_NOIMAGE#
-¸ğ·¡¹«´ı ¼Ó¿¡¼­ ´©±º°¡°¡ ¼û°Ü µĞ °í¾çÀÌ°Ç»§À» ¹ß°ßÇß´Ù. °í¾çÀÌ°Ç»§ÀÌ ÀÖ´ø ±¸¼®¿¡ ¹ú·¹°¡ ÀÜ¶à ²¿¿© ÀÖ¾ú´Ù. ¹ú·¹´Â °í¾çÀÌ°Ç»§ ÁÖº¯¿¡ ¸ô·Áµç °Í °°´Ù.#
+7275#Pick up Cat's Ship Biscuit-Sand Grave#SG_FEEL#QUE_NOIMAGE#
+In a sand grave, you found out cat's hard biscuit which was hidden. The biscuit was all covered with the bugs. Those bugs must be there for the biscuit..#
 #
 
-7276#½ÄÀç·á ³³Ç° ¾à¼Ó#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â ¸ÅÀÏ °í¾çÀÌ°Ç»§ÀÇ Àç·á¸¦ ³³Ç° ÇØÁÖ±â¸¦ ¿øÇÑ´Ù. ¶Ç ¹º°¡ »ö´Ù¸¥ ¿ä¸®¸¦ ¿¬±¸ ÇÏ±âµµ ÇÑ´Ù. ¾îÂîµÇ¾úµç ½Ã°£ÀÌ µÇ¸é Ã£¾Æ°¡ º¸ÀÚ.#
+7276#Promise to deliver more food#SG_FEEL#QUE_NOIMAGE#
+Chef Nyas wants you to deliver the ingredient for the biscuit every day, and for some new food. Anyway go back to him whenever you can.#
 #
 
-7281#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ²ÜÆ÷µµÁê½º 1°³#
-
-7282#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÃÊÄİ·¿¹«½ºÄÉÀÌÅ© 1°³#
-
-7283#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÈÄ¸£Ã÷¹Í½º 1°³#
-
-7284#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Å©¸² »÷µåÀ§Ä¡ 1°³#
-
-7285#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ³ì»öÀÇ »ø·¯µå 1°³#
-
-7286#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, º¹¼ş¾ÆÄÉÀÌÅ© 1°³#
-
-7287#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¼Ò¿ïÇåÆ®ºê·¹µå 1°³#
-
-7288#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ½ºÆä¼È Åä½ºÆ® 1°³#
-
-7289#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Ãµ»óÀÇ °úÀÏÁê½º 1°³#
-
-7290#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Èåº£¸£°Ö¹Ì¸£ÀÇ ¼ú 1°³#
-
-7291#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸Ş¶Ñ±â ººÀ½ 1°³#
-
-7292#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¹°°¥Äû ¹«Ä§ 1°³#
-
-7293#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, º½¹ö ½ºÅ×ÀÌÅ© 1°³#
-
-7294#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Çãºê ¾ç³ä°¥ºñ 1°³#
-
-7295#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ·çÆ¼¿¡ ¾ÆÁÜ¸¶ÀÇ ºÎÄ§°³ 1°³#
-
-7296#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ºû³ª´Â ³Êºñ¾Æ´Ï 1°³#
-
-7297#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Åë ¹ÙºñÅ¥ 1°³#
-
-7298#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ¯Á¦ °õ¹ß¹Ù´Ú¿ä¸® 1°³#
-
-7299#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÈûÁÙ ¼ÒÅ× 1°³#
-
-7300#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Çú¹Ù´Ú¿ä¸® 1°³#
-
-7301#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, °³±¸¸®¾Ë ¸Ô¹° ½ºÇÁ 1°³#
-
-7302#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¹Ì²ø¹Ì²ø ±¹¼ö 1°³#
-
-7303#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´,ÃË¼ö Ä¡Áî ±×¶óÅÁ  1°³#
-
-7304#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ·çÆ¼¿¡ ºñºö³Ã¸é 1°³#
-
-7305#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¹ÚÁã³¯°³ È£¹ÚÂò 1°³#
-
-7306#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Ä¥¸® »õ¿ì ±×¶óÅÁ 1°³#
-
-7307#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¾Ç¾î±¸ÀÌ ¾ßÃ¤Âò 1°³#
-
-7308#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÃÊ ¸Å¿î¸À Ä«·¹ 1°³#
-
-7309#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ¯Á¦ ºÒµµÀå 1°³#
-
-7310#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, »ç¸·Àü°¥ ¸ğ·¡Âò 1°³#
-
-7311#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, °Ô Áı°Ô¹ß Âò 1°³#
-
-7312#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÇØ»ê¹° ¿ä¸® 1°³#
-
-7313#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Á¶°³ÅÁ 1°³#
-
-7314#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÇØÆÄ¸® ¹«Ä§ 1°³#
-
-7315#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸ÅÄŞÇÏ°Ô ±¸¿î ¸¸µÎ 1°³#
-
-7316#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¹«Áö ¾´ º¸¾à 1°³#
-
-7317#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ¯Á¦ »êÇØÁø¹Ì 1°³#
-
-7318#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, °Å´ë ½Ó¿ä¸® 1°³#
-
-7319#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ½Â·æÅÁ 1°³#
-
-7320#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ºÒ»çÀÇ Âî°³ 1°³#
-
-7321#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ÷µµ°úÁó ÇãºêÆ¼ 1°³#
-
-7322#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´,  ¸¸¿±ÀÇ È«Â÷1°³#
-
-7323#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Çãºê  ²ÜÂ÷ 1°³#
-
-7324#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸ğ·ÎÅ© °úÀÏÁÖ 1°³#
-
-7325#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸¶½ºÅ×¶óÀÇ ¼ú 1°³#
-
-7326#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ºÓÀº¹ö¼¸ ¿ÍÀÎ 1°³#
-
-7327#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ¯Á¦ ·Î¾âÁ¦¸® ÇãºêÆ¼ 1°³#
-
-7328#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¿Õ½ÇÀü¿ë °í±ŞÂ÷ 1°³#
-
-7329#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Æ®¸®½ºÅº 12³â»ê 1°³#
-
-7330#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Ä¬Å×ÀÏ ¿ëÀÇ ¼û°á 1°³#
-
-7331#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¿ø¼şÀÌ ²¿¸®ººÀ½ 1°³#
-
-7332#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, È¥ÇÕÁê½º 1°³#
-
-7333#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸ÀÅÁ 1°³#
-
-7334#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, °í´ë¾î ¿ä¸® 1°³#
-
-7335#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Àü°¥ººÀ½ 1°³#
-
-7336#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, °Å¿îÅÁ 1°³#
-
-7337#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ²¿Ä¡±¸ÀÌ 1°³#
-
-7338#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, µş±â¸À ÁÖ¸Ô¹ä 1°³#
-
-7339#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ÇÇ¸À³ª´Â Åº»ê¼Ò´Ù 1°³#
-
-7340#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ±¸¹ÌÈ£ ²¿¸®¿ä¸® 1°³#
-
-7341#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¼¼ºñÁö Åë±¸ÀÌ 1°³#
-
-7342#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, Ä¬Å×ÀÏ ¿ö±× ºí·¯µå 1°³#
-
-7343#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ¸¶ÀÌ³Ê ¾çÁö¸Ó¸® 1°³#
-
-7344#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, ½Ã·Î¸¶ ¾ÆÀÌ½ºÆ¼ 1°³#
-
-7345#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, µå·Î¼¼¶ó ÇãºêÂò 1°³#
-
-7346#³Ä½ºÀÇ ½ÉºÎ¸§ ¸ñ·Ï#SG_FEEL#QUE_NOIMAGE#
-Á¶¸®Àå ³Ä½º´Â °í¾çÀÌ°Ç»§ Àç·á·Î °î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´À» ¿ä±¸Çß´Ù. ¶Ç ÀÎ°£µéÀÇ ¿ä¸®°¡ ±Ã±İÇÏ´Ù¸ç ¾Æ·¡ÀÇ ¿ä¸®µµ ÇÏ³ª ±¸ÇØ ¿À¶ó°í Áö½ÃÇß´Ù.#
-°î½Ä 10´Ü, ´ã¹éÇÑ¼Ò½º 1º´, »Ú¶ì²¿¸® ±¹¼ö 1°³#
+7281#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Honey Grape Juice#
+
+7282#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Chocolate Mousse Cake#
+
+7283#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fruit Mix#
+
+7284#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Cream Sandwich#
+
+7285#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Green Salad#
+
+7286#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Peach Cake#
+
+7287#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Soul Haunted Bread#
+
+7288#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Special Toast#
+
+7289#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Heavenly Fruit Juice#
+
+7290#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Hwergelmir's Tonic#
+
+//-Èû
+7291#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Grasshopper Legs#
+
+7292#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Seasoned Sticky Webfoot#
+
+7293#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Bomber Steak#
+
+7294#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Herb Marinade Beef#
+
+7295#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Lutie Lady's Pancake#
+
+7296#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Shiny Marinade Beef#
+
+7297#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Whole Roast#
+
+7298#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Bearfoot Special#
+
+7299#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Tendon Satay#
+
+7300#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Tongue#
+
+//-¾îÁú
+7301#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Frog Egg Squid Ink Soup#
+
+7302#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Smooth Noodle#
+
+7303#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Tentacle Cheese Gratin#
+
+7304#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Lutie Cold Noodle#
+
+7305#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Bat Wing in Pumpkin#
+
+7306#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Chile Shrimp Gratin#
+
+7307#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Alligator with Vegetable#
+
+7308#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Incredibly Spicy Curry#
+
+7309#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Special Meat Stew#
+
+7310#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Scorpion#
+
+//-¹ÙÅ»
+7311#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Crab Nippers#
+
+7312#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Assorted Seafood#
+
+7313#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Clam Soup#
+
+7314#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Seasoned Jellyfish#
+
+7315#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Spicy Fried Bao#
+
+7316#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Awfully Bitter Bracer#
+
+7317#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Sumptuous Feast#
+
+7318#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Giant Burito#
+
+7319#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Ascending Dragon Soup#
+
+7320#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Stew Of Immortality#
+
+//-ÀÎÆ®
+7321#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Grape Juice Herbal Tea#
+
+7322#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Autumn Red Tea#
+
+7323#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Honey Herbal Tea#
+
+7324#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Morroc Fruit Wine#
+
+7325#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Mastela Fruit Wine#
+
+7326#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Red Mushroom Wine#
+
+7327#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Special Royal Jelly Herbal Tea#
+
+7328#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Royal Family Tea#
+
+7329#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Tristram 12#
+
+7330#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Dragon Breath Cocktail#
+
+//-·°
+7331#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Monkey Tails#
+
+7332#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Mixed Juice#
+
+7333#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Sweet Potato#
+
+7334#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Steamed Ancient Lips#
+
+7335#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Fried Scorpion Tails#
+
+7336#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Lucky Soup#
+
+7337#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Assorted Shish Kebob#
+
+7338#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Strawberry Flavored Rice Ball#
+
+7339#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Blood Flavored Soda#
+
+7340#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Cooked Nine Tail's Tails#
+
+//-20¿ä¸®
+7341#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Savage BBQ#
+
+7342#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Wug Blood Cocktail#
+
+7343#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Minor Brisket#
+
+7344#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Siroma Icetea#
+
+7345#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Drocera Herb Stew#
+
+7346#Errands List of Nyas#SG FEEL#QUE NOIMAGE#
+Chef Nyas ordered you to bring 10 Bags of Grain and 1 bottle of Savory Sauce. And he also wants you to get the food below for his curiosity of Human Food.#
+10 Bags of Grain, 1 Bottle of Savory Sauce, 1 Petti Tail Noodle#
 
 7347#¸ÀÀÖ´Â ¹®¾î±¸ÀÌ#SG_FEEL#QUE_NOIMAGE#
 ¸ÀÀÖ´Â ¹®¾î±¸ÀÌ¸¦ ³Ê¹« ¸¹ÀÌ ¸ÔÀº °Í °°´Ù. ¹è°¡ ²¨Áö¸é ´Ù½Ã ¸Ô¾î º¼±î?#
@@ -5278,7 +5307,7 @@ One of the villagers who wants an agimat to carry.#
 One of the villagers who wants an agimat to carry.#
 #
 
-7358#Why They Want Buttons#SG_FEEL#QUE_NOIMAGE#
+7358#Why do they want my Buttons?#SG_FEEL#QUE_NOIMAGE#
 Cannot understand the villagers here. I'll have to ask Phong in Mumbaki why they are crazy over possessing buttons.#
 Ask for advice from Phong in Mumbaki.#
 
@@ -9222,152 +9251,152 @@ Lighten your inventory weight and talk to Jones again.#
 Please take good care of it. It's for Daphrer in Splendide.#
 Bring the Supply Kit to Daphrer.#
 
-11209#Åä¸¶½º¾¾ÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-¸»¶ûµµ¿¡ ¿Â ÀÎ°£µéÀ» ÁË´Ù ³ª¿¡°Ô º¸³»¹ö¸®´Ï ¾÷¹«°úºÎÇÏ°¡ Àå³­ÀÌ ¾Æ´Ï¶ó¼­ ¸»ÀÌ¾ß. ¸¶Ä§ ^0000FF¸»¶ûµµ Á¤±â ÁıÈ¸^000000°¡ ¿­¸®°í ÀÖÀ» Å×´Ï °¡º¸°Ô. ÁıÈ¸ Àå¼Ò´Â ^0000FF¹İ´ëÆí º¹µµ ³¡^000000¿¡ ÀÖ´Ù³×.#
-ÁıÈ¸¿¡ Âü¼®ÇÏÀÚ.#
+11209#Mr. Tomas' distress#SG_FEEL#QUE_NOIMAGE#
+All human who visit Malangdo are coming to me that is why I have too much work. There is ^0000FFMalangdo regular meeting^000000, just go over there. The place is located on ^0000FFThe other side of corridor end^000000.#
+Participate meeting.#
 
-11210#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-¿À´ÃÀÇ ÁÖ¿ä ÁÖÁ¦´Â ¿ª½Ã ^ff99ccº°»çÅÁ´Ô^000000 ÀÔ´Ï´Ù. ´ÙÀ½ ÀÇÁ¦¿¡ °üÇØ¼­ ÀÇ°ßÀÌ ÀÖÀ¸½Å ºĞÀº ¸»¾¸ÇØ ÁÖ½Ã±â ¹Ù¶ø´Ï´Ù.#
-½ºÄÚÆúµå¾¾ÀÇ ÀÇ°ßÀ» µé¾îº¸ÀÚ.#
+11210#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+Today agenda is ^ff99ccStar Candy^000000. If anyone has opinion about next topic, please speak up.#
+Let's hear Scottfold's opinion.#
 
-11211#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-^0000FF°ø¿ë¾î¸¦ Á¶±İ »ç¿ëÇÒÁÙ ¾Æ´Â °Ç»§´Ô^000000ÀÌ ¿·¿¡ ºÙ¾îÀÖ±ä ÇÏÁö¸¸ ½Éµµ ±íÀº ´ëÈ­¸¦ ³ª´©±â¿¡´Â ¹«¸®°¡ ÀÖ´Ù°í ÆÇ´ÜµÇ°í ÀÖ½À´Ï´Ù.#
-Äï¾¾ÀÇ ÀÇ°ßÀ» µé¾îº¸ÀÚ.#
+11211#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+There is ^0000FFinterpreter Biscuit^000000 next him but it is really hard to have detailed conversation.#
+Let's hear Koon's opinion.#
 
-11212#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-±× ºÎºĞ¿¡ ´ëÇØ¼­´Â Á¦°¡ Á÷Á¢ ¿¬±¸ ¼º°ú¸¦ ¸»¾¸ µå¸®µµ·Ï ÇÏ°Ú½À´Ï´Ù.#
-¾ğ¾îÇĞÀÚ µ¥º¸·¹ ¹Ú»çÀÇ ¿¬±¸ ¼º°ú¿¡ ´ëÇØ µé¾îº¸ÀÚ.#
+11212#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+Let me tell you about the production of study.#
+Let's hear Llinguist  Devore's production of study.#
 
-11213#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-^0000FFºÒ°¡»ç¸®¾îÀÇ ¿¬±¸^000000´Â ¿ì¸®µéÀÌ ¸»¶ûµµ¿¡ Á¤ÂøÇÔ°ú °ÅÀÇ µ¿½Ã¿¡ ½ÃÀÛµÇ¾úÀ¸³ª ÀÌ·¸´Ù ÇÒ ¼º°ú¸¦ ¿Ã¸®Áö ¸øÇÏ°í ÀÖ´Â »óÈ²ÀÔ´Ï´Ù. °£´ÜÇÑ ´ëÈ­´Â ÇÒ ¼ö ÀÖ°Ô µÇ¾úÁö¸¸ ÅÎ¾øÀÌ ºÎÁ·ÇÑ °á°ú¶ó°í ¿©°ÜÁı´Ï´Ù.#
-ÁöÁúÇĞÀÚ ¸»¸® ¹Ú»çÀÇ ¿¬±¸ ¼º°ú¿¡ ´ëÇØ µé¾îº¸ÀÚ.#
+11213#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+^0000FFStudy of language of Starfish^000000 is started when we are settled in Malando but it does not achieve what I expected. A simple conversation is available but that is lack of performance.#
+Let's hear Geologist Mali's production of study.#
 
-11214#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-Áö¹İÀÇ ±Õ¿­Àº ¿©ÀüÈ÷ °÷°÷¿¡¼­ ¹ß»ıÇÏ°í ÀÖ¼Û. ¾ğÁ¦ º°»çÅÁ´ÔÀÌ ¿òÁ÷ÀÏÁö ¿¹ÃøÇÒ ¼ö ¾ø´Â »óÈ²ÀÌ´Ï Áö±İÀº ±×Àú »¡¸® º¸¼öÇÏ´Â °Í ¹Û¿¡ ´äÀÌ ¾ø¿Ë.#
-ºê¸®±ºÀÇ ÀÇ°ßÀ» µé¾îº¸ÀÚ.#
+11214#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+There are several ground crack. Nobody knows when the Star Candy will move so, we have to repair them quickly.#
+Let's hear Brie's opinion.#
 
-11215#¸»¶ûµµ Á¤±â ÁıÈ¸#SG_FEEL#QUE_NOIMAGE#
-¸»¶ûµµÀÇ ÀÔÀå¿¡¼­µµ ¸®Ä­¾¾ÀÇ ºÎ»óÀÌ ÀÌ±×µå¶ó½Ç ¿­¸Å ¹«¿ª¿¡ ÀÖ¾î¼­ Å« ¿µÇâÀ» °¡Á®¿ÃÁöµµ ¸ğ¸¥´Ù´Â Á¡Àº ÃæºĞÈ÷ ¾Ë°í ÀÖÀ¸´Ï ³Ê¹« °ÆÁ¤ÇÏÁö ¸¶¼¼¿ä.#
-ºê¸®±ºÀÇ ÀÌ¾ß±â¸¦ µé¾îº¸ÀÚ.#
+11215#Malangdo regular meeting#SG_FEEL#QUE_NOIMAGE#
+We pretty understand that Mr. Rican's injury could affect trading of Yggdrasilberry so, don't worry about that.#
+Let's hear Brie's Story.#
 
-11216#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-¹¹ ¾îÂ·µç ³­ ÀÌ ÀÏÀ» ½ÃÀÛÇÑÁö ¾ó¸¶ ¾ÈµÅ¼­ Àß ¸ğ¸£´Ï±î ÀÌ±×µå¶ó½Ç ¿­¸Å¿¡ ´ëÇØ ¹°¾îº¸°í ½Í´Ù¸é ^6666cc¸»¶ûµµ ¼­ÂÊ^000000¿¡ ÀÖ´Â ¿ì¸® Áı¿¡ °¡ºÁ. ¾Æ¹öÁö°¡ ¿À´Ãµµ ½É½ÉÇØ Á×°Ú´Ù´Â Ç¥Á¤À¸·Î µß±¼ °Å¸®°í ÀÖÀ» Å×´Ï±î...#
-ºê¸®±ºÀÇ ¾Æ¹öÁöÀÎ ¸®Ä­¾¾¸¦ ¸¸³ªÀÚ.#
+11216#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+Anyway, I don't know exactly about Yggdrasilberry. If you have question, just go my home in ^6666ccWestern Malando^000000. My father will be bored out of his skull there...#
+Let's meet Brie's father Mr. Rican.#
 
-11217#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-^6666cc¿ì¸® ÀÌ±×µå¶ó½Ç ¿­¸Å´Â ±×³É ¶¥ ÆÄ¸é ³ª¿Í.^000000 ¸»¶ûµµ ¼¶ À§¿¡¼­ ¾î·ÆÁö ¾Ê°Ô Ã£À» ¼ö ÀÖÀ¸´Ï ÇÑ 30°³¸¸ °¡Á®´Ù ÁÖ¶ó.#
-°«µû¼­ ½Å¼±ÇÑ ÀÌ±×µå¶ó½Ç ¿­¸Å 30°³¸¦ °¡Á®¿ÀÀÚ.#
+11217#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+^6666ccThe Yggdrasilberry is everywhere.^000000 You can get easily on island Malangdo so, please bring about 30 of them.#
+Let's bring 30 fresh Yggdrasilberry.#
 
-11218#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-¿­¸Å¸¦ ³» ¾Õ¿¡ ÀÖ´Â ±â°è¿¡ ³Ö¾îÁÖÁö ¾Ê°Ú¾î?#
-±¸ÇØ¿Â ÀÌ±×µå¶ó½Ç ¿­¸Å¸¦ ±â°è¿¡ ³ÖÀÚ.#
+11218#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+Why don't you put Yggdrasilberry in the machine.?#
+Let's put Yggdrasilberry in that machine.#
 
-11219#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-¹öÆ°À» ´©¸£ÀÚ ±â°è°¡ ÀÛµ¿ÇÏ±â ½ÃÀÛÇß´Ù.#
-¸®Ä­¿¡°Ô ¸»À» °É¾îº¸ÀÚ.#
+11219#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+When press the button, the machine is started.#
+Let's talk with Rican.#
 
-11220#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-³»°¡ ´Ù¸®¸¦ ´ÙÄ£ ÀÌÈÄ·Î °è¼Ó ¸»¸® ¹Ú»ç¿¡°Ô Ã£¾Æ°¡´Â ¸ğ¾çÀÌ¾ß. È¤½Ã ³» ¾Æµé³à¼® º¸¸é »¡¸® µ¹¾Æ¿À¶ó°í ÀüÇØÁà~#
-ºê¸®¸¦ Ã£¾Æº¸ÀÚ.#
+11220#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+After I had knee injury, he might go to Dr. Mali everyday. If you see my son, just tell him come back to me~#
+Let's find Brie.#
 
-11221#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-ÀÚ¼¼ÇÑ »çÇ×Àº ³» ^6666ccÁ¶¼öÀÎ ¹ä^000000¿¡°Ô ¹°¾îº¸¶ó¿Ë. ÀÌ °÷À» ³ª°¡¼­ ¹Ù·Î ^6666cc¿À¸¥ÂÊ¿¡ ÀÖ´Â ¹æ^000000¿¡ ÀÖÀ» °Å¿¹¿ë.#
-Á¶¼ö ¹äÀ» ¸¸³ªº¸ÀÚ.#
+11221#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+If you need more detail, please ask my  ^6666ccassistant Bob^000000. He might be at ^6666ccright next room^000000.#
+Let's meet the assistant Bob.#
 
-11222#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-°¥¶óÁ®¼­ Æ´ÀÌ »ı±ä ºÎºĞ¿¡´Â ÀÌ È¸»ö Á¡Åä¶û ÇÏ¾á»ö Á¡Åä¸¦ Á¶¹°Á¶¹° ¼¯¾î¼­ ¸Ş¿öÁÖ½Ã°í ±×³É °¥¶óÁø °÷Àº ½ºÅÂÇÃ·¯·Î °íÁ¤½ÃÄÑ ÁÖ¼¼¿ä.#
-¼ö¸®¿ë Å°Æ®·Î ±Õ¿­À» ¼ö¸®ÇÏÀÚ. OKÇÏ´Â ±×³¯±îÁö....#
+11222#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+Fill mixed gray and white clay up into the crack. Attach the gap with stapler.#
+Let's repair crack by repairing kit. when everyone says OK....#
 
-11223#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-±Õ¿­ ºÎºĞÀÌ »ó´çÈ÷ Àß ¾Æ¹® °Í °°´Ù. ¹ä¿¡°Ô µ¹¾Æ°¡ º¸°íÇÏÀÚ.#
-¹ä¿¡°Ô µ¹¾Æ°¡ÀÚ.#
+11223#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+The crack is filled up as well. Let's report to Bob.#
+let's get back to Bob.#
 
-11224#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-°¨µ¿! ½Åºñ! Ãæ°İ! ¼ö°íÇÏ¼Ì½À´Ï´Ù!!! ¸»¸® ¹Ú»ç´Ô²²µµ Àß ¸»ÇØ µÑ°Ô¿ä!#
-¸»¸® ¹Ú»ç´ÔÀ» ¸¸³ªÀÚ.#
+11224#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+Empress! magical! shocking! well done!!! I'll tell Dr. Mali!#
+Let's see Dr. Mali.#
 
-11225#±³Â÷ÇÏÁö ¾Ê´Â ³ë·ÂÀÇ ±æ#SG_FEEL#QUE_NOIMAGE#
-µ¥º¸·¹ ¹Ú»ç´ÔÀÌ ºÒ°¡»ç¸®¾î ¿¬±¸¿¡ ¾ó¸¶³ª ¿­ÁßÇÏ°í °è½ÅÁö ´Ùµé ¾Ë°í ÀÖ´Ù±¸¿ë!!! ³ë·ÂÇÏ°í ÀÖÀ¸´Ï±î Á»´õ ´ç´çÇØ Áö¼¼¿ë!#
-µ¥º¸·¹ ¹Ú»ç´ÔÀÌ ½½·³ÇÁ¿¡ ºüÁøµí ÇÏ´Ù. ÀÌ¾ß±â¸¦ ÇØº¸ÀÚ.#
+11225#Not intersecting effort of the road#SG_FEEL#QUE_NOIMAGE#
+Everyone knows how Dr. Devore concentrates his study of starfish language!!! Please be confidence! you are doing good!#
+Llinguist Devore might be fell into slump. Let's talk with him.#
 
-11226#±³Â÷ÇÏÁö ¾Ê´Â ³ë·ÂÀÇ ±æ#SG_FEEL#QUE_NOIMAGE#
-ºÒ°¡»ç¸®¾î´Â Á¤¸» ½ÅºñÇÕ´Ï´Ù. Á¤¸»ÀÌÁö ÀüÇô ¸ğ¸£°Ú°Åµç¿ä. '¾ğ¾î'ÀÌ±ä ÇÑ °ÇÁö ½Å±âÇÒ Á¤µµ¶ó¼­¿ä. ±×µéÀÌ ¿Ö ±×°÷¿¡ ÀÖ´ÂÁö ¹» ¿øÇÏ´ÂÁö! ±×°Í¸¸ÀÌ¶óµµ ¾Ë¾Æ³¾ ¼ö ÀÖ´Ù¸é ÁÁÀ» ÅÙµ¥!#
-ºÒ°¡»ç¸®µé¿¡´ëÇØ Á¶»çÇØº¸ÀÚ.#
+11226#Not intersecting effort of the road#SG_FEEL#QUE_NOIMAGE#
+The starfish language is so mysterious. I don't know at all. I'm not sure that is really 'language' or not. I really want to know what they want over there!#
+Let's research about the Starfish.#
 
-11227#±³Â÷ÇÏÁö ¾Ê´Â ³ë·ÂÀÇ ±æ#SG_FEEL#QUE_NOIMAGE#
-µ¥º¸·¹ ¹Ú»çÀÇ ¸»°ú´Â ´Ù¸£°Ô °Ç»§Àº ¾ÆÁÖ À¯Ã¢ÇÑ ¾ğ¾î½Ç·ÂÀ» °¡Áø °Í °°´Ù. ÀÌ »ç½ÇÀ» ¾î¼­ µ¥º¸·¹ ¹Ú»ç¿¡°Ô ¾Ë¸®´Â °ÍÀÌ ÁÁ°Ú´Ù.#
-µ¥º¸·¹ ¹Ú»ç¿¡°Ô °¡ÀÚ.#
+11227#Not intersecting effort of the road#SG_FEEL#QUE_NOIMAGE#
+Biscuit might have a very fluent language skills, unlike Dr. Devore's saying. I 'll tell this fact to Dr. Devore.#
+Let's go to Dr. Devore.#
 
-11228#±³Â÷ÇÏÁö ¾Ê´Â ³ë·ÂÀÇ ±æ#SG_FEEL#QUE_NOIMAGE#
-½ÇÁ¦·Î º¸Áö ¾Ê´Â ÀÌ»ó ¹Ï±â°¡ ¾î·Æ±º¿ä. ¼³¸¶ Á¦ ¾Õ¿¡¼­¸¸ ¸»À» Á¦´ë·Î ÇÏÁö ¾ÊÀº °ÍÀº ¾Æ´Ò ÅÙµ¥ ¸»ÀÌÁÒ. °°ÀÌ °¡¼­ µé¾îº¸ÁÒ!!#
-´Ù½Ã °Ç»§¿¡°Ô °¡ÀÚ.#
+11228#Not intersecting effort of the road#SG_FEEL#QUE_NOIMAGE#
+That is incredible. Well, Didn't it only speak in front of me. Let's go to hear!!#
+Let's get back to Biscuit.#
 
-11229#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-´ç½ÅÀº °Ç»§´Ô°ú ´ëÈ­¸¦ ³ª´­ ¼ö ÀÖ´Â ¿µ¿ªÀ» °¡Áø Á¾Á·ÀÌ´Ï ÀÌ°ÍÀú°Í ´ëÈ­¸¦ ÇØÁÖ¼¼¿ä. ¾î¶² ´ëÈ­¶ó ÇÒÁö¶óµµ Á¦ ¿¬±¸¿¡ µµ¿òÀÌ µÉ °Í °°À¸´Ï±î¿ä.#
-°Ç»§´Ô°ú ´ëÈ­¸¦ ³ª´©ÀÚ.#
+11229#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+You are able to speak with Biscuit as same species. Any conversation will help my study.#
+Let's talk with Biscuit.#
 
-11230#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-º°»çÅÁ´Ô, °Ç»§´Ô, ¸»¶ûµµ¿¡´ëÇØ ¿©·¯°¡Áö¸¦ µé¾ú´Ù.#
-°è¼ÓÇØ¼­ ´ëÈ­¸¦ ³ª´©ÀÚ.#
+11230#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+I heard several things about Star candy, Biscuit and Malangdo.#
+Continue the conversation.#
 
-11231#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-¿ä ÁÖº¯¿¡ º¸ÀÌ´Â Á©¸®³à¼®µéÀ» Àâ¾Æ¿À¸é µÅ. ¸ÀÀÖ´Â Á©¸® 30°³¸é ÇÑ³¢½Ä»ç·Î´Â ÃæºĞÇÑ Á¤µµÁö.#
-¸ÀÀÖ´Â Á©¸® 30°³¸¦ ¸ğ¾Æ µ¹¾Æ¿ÀÀÚ.#
+11231#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+You just catch the jelly around here. Delicious 30 jelly will be enough for one meal.#
+Let's get back with 30 delicious Jelly.#
 
-11232#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-º°»çÅÁ´Ô ¿Ö ±×·¸°Ô ¸øµå¼¼¿ä. ½Ä¿åÀÌ ¾øÀ¸¼¼¿ä?#
-¹«½¼ÀÏÀÎÁö ¾Ë¾Æº¸ÀÚ.#
+11232#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+Hey Star Candy! you don't eat as well. You don't have no appetite?#
+Let's find out what is going on.#
 
-11233#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-¿©±â±îÁö ¹°À» ¿Å°Ü¾ß ÇÏ´Ï ¾çµ¿ÀÌ¶û º°»çÅÁ´ÔÀ» ´ÛÀ» ¼ÖÀ» Á» Ã£¾Æ¿À°Ô. ¾Æ¸¶ Ã¢°í °°Àºµ¥ ½×¿©ÀÖÁö ¾ÊÀ»±î ½ÍÀºµ¥#
-¾çµ¿ÀÌ¿Í Ã»¼Ò¿ë ¼ÖÀ» Ã£¾Æ¿ÀÀÚ.#
+11233#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+We have to carry water so, please bring bucket and brush to clean Star Candy. Those might be in storage#
+Let's find cleaning bucket and brush.#
 
-11234#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-¹°°ÇµéÀº Àß °¡Á® ¿Â °Í °°±º. ±×·³ ÀÌÁ¦ ÀÌÂÊÀÇ Çª¼®ÇÑ ÇÇºÎºÎÅÍ ½ÃÀÛÇØ¼­ ¹İ½Ã°è ¹æÇâÀ¸·Î ´ÛÀ¸¸é µÅ!#
-Çª¼®ÇÑ ÇÇºÎ-> ±î²øÇÑ ÇÇºÎ-> °¥¶óÁø ÇÇºÎ-> µüµüÇÑ ÇÇºÎ ¼øÀ¸·Î ±ú²ıÇÏ°Ô ´ÛÀÚ.#
+11234#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+You brought stuff as well. Now you can scrub your skin in counterclock wise!#
+Clean up friable skin-> haggard skin-> cracked skin-> hard skin.#
 
-11235#º°»çÅÁÀ» À§ÇÏ¿©#SG_FEEL#QUE_NOIMAGE#
-Çª¼®ÇÑ ÇÇºÎ, ±î²øÇÑ ÇÇºÎ, °¥¶óÁø ÇÇºÎ, µüµüÇÑ ÇÇºÎ°¡ ¸ğµÎ »Ç¼Û»Ç¼Û ÇØÁ³´Ù.#
-°Ç»§¿¡°Ô µ¹¾Æ°¡ÀÚ.#
+11235#For the Star Candy#SG_FEEL#QUE_NOIMAGE#
+Friable skin, haggard skin, cracked skin and hard skin are changed smooth skin as soft as silk.#
+Let's get back to Biscuit.#
 
-11236#±³ÁıÇÕ#SG_FEEL#QUE_NOIMAGE#
-µåº¸¸¥Áö µ¥º¸¸¥Áö ÇÏ´Â °í¾çÀÌÇÑÅ×µµ ±ÄÀÌ ¿¬±¸°¡ ¿Ï·áµÉ¶§±îÁö ±â´Ù¸± °Í ¾øÀÌ ³Ê¸¦ ÅëÇØ¼­ ÀÌ¾ß±â ÇÏ¸é µÇ´Ï±î °¡±î¿î ½ÃÀÏ³»¿¡ Áö±İ »óÈ²¿¡ ´ëÇØ¼­ ¾ê±âÁ» ÇÏÀÚ°í ÀüÇØÁà.#
-µ¥º¸·¹ ¹Ú»ç¿¡°Ô ÀüÇØÁÖÀÚ.#
+11236#Intersection#SG_FEEL#QUE_NOIMAGE#
+You don't have to wait until the study is completed. Just tell Devore. I want to talk about the current situation with him.#
+Let's send to Dr. Devore.#
 
-11237#Åä¸¶½º¾¾ÀÇ °íÃæ#SG_FEEL#QUE_NOIMAGE#
-ÀÌ ±â»Û ¼Ò½ÄÀ» Åä¸¶½º ÃÌÀå´Ô²² Á» ÀüÇØÁÖ¼¼¿ä.#
-Åä¸¶½º ÃÌÀåÀ» ¸¸³ªÀÚ.#
+11237#Mr. Tomas' distress#SG_FEEL#QUE_NOIMAGE#
+Please send this good news to chief Tomas.#
+Let's see the chief Tomas.#
 
-11238#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-ÇÒÀÏÀº Àú¹øÀÌ¶û ¶È°°¾Æ. ¸»¶ûµµ ¼¶ À§¿¡¼­ ¾î·ÆÁö ¾Ê°Ô Ã£À» ¼ö ÀÖ´Â ½Å¼±ÇÑ ÀÌ±×µå¶ó½Ç ¿­¸Å 30°³!!#
-½Å¼±ÇÑ ÀÌ±×µå¶ó½Ç ¿­¸Å¸¦ 30°³ ±¸ÇØ¼­ ¸®Ä­¿¡°Ô µ¹¾Æ°¡ÀÚ.#
+11238#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+The discount is just like before. 30 fresh Yggdrasilberry that easily found in island Malangdo!!#
+Let's get back to Rican with 30 fresh Yggdrasilberry.#
 
-11239#ÀÌ±×µå¶ó½Ç ¿­¸Å#SG_FEEL#QUE_NOIMAGE#
-ÇÏ·ç µ¿¾È ¸®Ä­¿¡°Ô¼­ ÀÓ¹«¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
+11239#Yggdrasilberry#SG_FEEL#QUE_NOIMAGE#
+You can't receive any request from Rican during one day.#
 #
 
-11240#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-ÀÚ¼¼ÇÑ »çÇ×Àº ³» ^6666ccÁ¶¼öÀÎ ¹ä^000000¿¡°Ô ¹°¾îº¸¶ó¿Ë. ÀÌ °÷À» ³ª°¡¼­ ¹Ù·Î ^6666cc¿À¸¥ÂÊ¿¡ ÀÖ´Â ¹æ^000000¿¡ ÀÖÀ» °Å¿¹¿ë.#
-Á¶¼ö ¹äÀ» ¸¸³ªº¸ÀÚ.#
+11240#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+If you need more detail, please ask my ^6666ccassistant Bob^000000. He might be at ^6666ccright next room^000000.#
+Let's see assistant Bob.#
 
-11241#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-°¥¶óÁ®¼­ Æ´ÀÌ »ı±ä ºÎºĞ¿¡´Â ÀÌ È¸»ö Á¡Åä¶û ÇÏ¾á»ö Á¡Åä¸¦ Á¶¹°Á¶¹° ¼¯¾î¼­ ¸Ş¿öÁÖ½Ã°í ±×³É °¥¶óÁø °÷Àº ½ºÅÂÇÃ·¯·Î °íÁ¤½ÃÄÑ ÁÖ¼¼¿ä.#
-¼ö¸®¿ë Å°Æ®·Î ±Õ¿­À» ¼ö¸®ÇÏÀÚ. OKÇÏ´Â ±×³¯±îÁö....#
+11241#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+Fill mixed gray and white clay up into the crack. Attach the gap with stapler.#
+Let's repair crack by repairing kit. when everyone says OK....#
 
-11242#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-±Õ¿­ ºÎºĞÀÌ »ó´çÈ÷ Àß ¾Æ¹® °Í °°´Ù. ¸»¸® ¹Ú»ç¿¡°Ô µ¹¾Æ°¡ º¸°íÇÏÀÚ.#
-¸»¸® ¹Ú»ç¿¡°Ô µ¹¾Æ°¡ÀÚ.#
+11242#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+The crack is filled up as well. Let's report to Dr. Mali.#
+Let's get back to Dr. Mali.#
 
-11243#¼¼»ó¿¡¼­ °¡Àå ¸»¶û¸»¶ûÂËµæÂËµæÇÑ#SG_FEEL#QUE_NOIMAGE#
-ÇÏ·ç µ¿¾È ¸»¸® ¹Ú»ç¿¡°Ô¼­ ÀÓ¹«¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
+11243#The most soft jelly in the world#SG_FEEL#QUE_NOIMAGE#
+You can't receive any request from Dr. Mali during one day.#
 #
 
-11244#¸»¶û¸»¶ûÁ©¸®#SG_FEEL#QUE_NOIMAGE#
-¿ä ÁÖº¯¿¡ º¸ÀÌ´Â Á©¸®³à¼®µéÀ» Àâ¾Æ¿À¸é µÅ. ¸ÀÀÖ´Â Á©¸® 30°³¸é ÇÑ³¢½Ä»ç·Î´Â ÃæºĞÇÑ Á¤µµÁö.#
-¸ÀÀÖ´Â Á©¸® 30°³¸¦ ¸ğ¾Æ µ¹¾Æ¿ÀÀÚ.#
+11244#Soft Jelly#SG_FEEL#QUE_NOIMAGE#
+Just catch some jelly around here. I think that delicious 30 jelly are enough for one meal.#
+Let's get back with 30 delicious jelly.#
 
-11245#¸»¶û¸»¶ûÁ©¸®#SG_FEEL#QUE_NOIMAGE#
-ÇÏ·ç µ¿¾È °Ç»§¿¡°Ô¼­ ÀÓ¹«¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
+11245#Soft Jelly#SG_FEEL#QUE_NOIMAGE#
+You can't receive any request from Biscuit during one day.#
 #
 
 11246#¾Æ¸£¹ÙÀÌÆ® ÈŞ½Ä½Ã°£#SG_FEEL#QUE_NOIMAGE#
@@ -10706,89 +10735,89 @@ Search the Fog Maze Forest around 11, 4#
 No more tasks are available today from Soul Guide#
 Wait for the timer to expire#
 
-12254#Áö±İÀº Ã»¼ÒÁß#SG_FEEL#QUE_NOIMAGE#
-Áö±İÀº Ã»¼ÒÁßÀÔ´Ï´Ù. ÇÑ°÷ÀÇ Ã»¼Ò°¡ ³¡³¯¶§±îÁö ÁıÁßÇÕ½Ã´Ù#
-1½Ã°£µ¿¾È ÁöÇÏ¹è¼ö·ÎÀÇ Ã»¼Ò´ã´ç#
+12254#Now it's cleaning#SG_FEEL#QUE_NOIMAGE#
+Now it's cleaning time. Please concentrate one spot until that finish#
+Cleaning the culvert during 1 hour#
 
-12255#½ÉÇØ °Ô ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff½ÉÇØ °Ô ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-½ÉÇØ °Ô 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12255#Hunt deep sea crab#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea crab ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 deep sea crabs - Appear in Culvert Dungeon Normal mode#
 
-12256#½ÉÇØ ¿ÀÂ¡¾î ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff½ÉÇØ ¿ÀÂ¡¾î ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-½ÉÇØ ¿ÀÂ¡¾î 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12256#Hunt deep sea squid#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea squid ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 deep sea squids - Appear in Culvert Dungeon Normal mode#
 
-12257#°í´ë °©°¢·ù ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff°í´ë °©°¢·ù ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-°í´ë °©°¢·ù 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12257#Hunt Ancient crustacean#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffancient crustacean ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 ancient crustaceans - Appear in Culvert Dungeon Normal mode#
 
-12258#½ÉÇØ Á¶°³ ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff½ÉÇØ Á¶°³ ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-½ÉÇØ Á¶°³ 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12258#Hunt deep sea shell#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea shell ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 deep sea shells - Appear in Culvert Dungeon Normal mode#
 
-12259#°í´ë ÄíÅ©·¹ ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff°í´ë ÄíÅ©·¹ ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-°í´ë ÄíÅ©·¹ 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12259#Hunt ancient kukre#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffancient kukre ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 ancient kukres - Appear in Culvert Dungeon Normal mode#
 
-12260#½ÉÇØ ¼Ò¶ó ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff½ÉÇØ ¼Ò¶ó ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-½ÉÇØ ¼Ò¶ó 20 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12260#Hunt deep sea conch#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea conch ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 20 deep sea conches - Appear in Culvert Dungeon Normal mode#
 
-12261#°í´ë ÇØ¸¶ ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff°í´ë ÇØ¸¶ ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-°í´ë ÇØ¸¶ 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12261#Hunt deep sea horse#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea horse ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 deep sea horses - Appear in Culvert Dungeon Hard mode#
 
-12262#°í´ë ¼ÒµåÇÇ½¬ ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff°í´ë ¼ÒµåÇÇ½¬ ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-°í´ë ¼ÒµåÇÇ½¬ 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12262#Hunt ancient sword fish#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffancient sword fish ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 ancient sword fishes - Appear in Culvert Dungeon Hard mode#
 
-12263#°í´ë ÇØ½Å ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff°í´ë ÇØ½Å ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-°í´ë ÇØ½Å 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12263#Hunt ancient sea god#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffancient sea god ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 ancient sea gods - Appear in Culvert Dungeon Hard mode#
 
-12264#µ¹¿¬º¯ÀÌ ¾Æ³î¸®¾È ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ffµ¹¿¬º¯ÀÌ ¾Æ³î¸®¾È ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-µ¹¿¬º¯ÀÌ ¾Æ³î¸®¾È 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12264#Hunt mutation anolian#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffmutation anolian ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 mutation anolians - Appear in Culvert Dungeon Hard mode#
 
-12265#½ÉÇØ ÀÎ¾î ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ff½ÉÇØ ÀÎ¾î ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-½ÉÇØ ÀÎ¾î 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12265#Hunt deep sea mermaid#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000ffdeep sea mermaid ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 deep sea mermaids - Appear in Culvert Dungeon Hard mode#
 
-12266#º¯Çü Ä±ÆÄ ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ¿À´ÃÀ» ^0000ffº¯Çü Ä±ÆÄ ^000000ÅğÄ¡ÀÇ ³¯·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ¿ë±â°¡ ÀÖ´Â ¿ëÀÚµéÀº ¸Á¼³ÀÌÁö ¸»°í ¿ì¸®ÀÇ ±ê¹ß ¾Æ·¡ ¸ğ¿©¶ó! ±â°£Àº ¿À´Ã ÇÏ·ç µ¿¾ÈÀÌ´Ù!#
-º¯Çü Ä±ÆÄ 30 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12266#Hunt transformable kapha#SG_FEEL#QUE_NOIMAGE#
+Today, the hero of Culvert, we set a date of extermination of^0000fftransformable kapha ^000000and raise our. Common heros! Don't be afraid of them just come over here! It is just oneday!#
+Hunt 30 transformable kaphas - Appear in Culvert Dungeon Hard mode#
 
-12267#±«ÀÌÇÑ ½Ç·¯Äµ½º ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ÀÌ¹ø ÁÖ°£À» ^0000ff±«ÀÌÇÑ ½Ç·¯Äµ½º ^000000ÅğÄ¡ÀÇ ÁÖ°£À¸·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ÀÌ ÀÏÀ» Ã³¸®ÇÏ´Âµ¥¿¡´Â µü 1ÁÖÀÏÀÇ ½Ã°£À» ÁÖ°Ú´ç! ¹è¼ö·Î ´øÀüÀÇ ÀÏ¹İ¸ğµå¿¡¼­ ³à¼®À» Ã³Ä¡ÇØ¶û!#
-±«ÀÌÇÑ ½Ç·¯Äµ½º 1 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12267#Hunt weird coelacanth#SG_FEEL#QUE_NOIMAGE#
+The hero of Culvert, we set a week of Hunt ^0000ffweird coelacanth ^000000 and raise our voice! I'll give you just one week to finish this job! Termiante all of them normal mode in culvert dungeon!#
+Hunt 1 weird coelacanth - Appear in Culvert Dungeon Normal mode#
 
-12268#¾ÏÈæÀÇ ½Ç·¯Äµ½º ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ÀÌ¹ø ÁÖ°£À» ^0000ff¾ÏÈæÀÇ ½Ç·¯Äµ½º ^000000ÅğÄ¡ÀÇ ÁÖ°£À¸·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ÀÌ ÀÏÀ» Ã³¸®ÇÏ´Âµ¥¿¡´Â µü 1ÁÖÀÏÀÇ ½Ã°£À» ÁÖ°Ú´ç! ¹è¼ö·Î ´øÀüÀÇ ÀÏ¹İ¸ğµå¿¡¼­ ³à¼®À» Ã³Ä¡ÇØ¶û!#
-¾ÏÈæÀÇ ½Ç·¯Äµ½º 1 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÀÏ¹İ¸ğµå¿¡¼­ µîÀå#
+12268#Hunt dark coelacanth#SG_FEEL#QUE_NOIMAGE#
+The hero of Culvert, we set a week of Hunt ^0000ffdark coelacanth ^000000 and raise our voice! I'll give you just one week to finish this job! Termiante all of them normal mode in culvert dungeon!#
+Hunt 1 dark coelacanth - Appear in Culvert Dungeon Normal mode#
 
-12269#Æ÷¾ÇÇÑ ½Ç·¯Äµ½º ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ÀÌ¹ø ÁÖ°£À» ^0000ffÆ÷¾ÇÇÑ ½Ç·¯Äµ½º ^000000ÅğÄ¡ÀÇ ÁÖ°£À¸·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ÀÌ ÀÏÀ» Ã³¸®ÇÏ´Âµ¥¿¡´Â µü 1ÁÖÀÏÀÇ ½Ã°£À» ÁÖ°Ú´ç! ¹è¼ö·Î ´øÀüÀÇ ÇÏµå¸ğµå¿¡¼­ ³à¼®À» Ã³Ä¡ÇØ¶û!#
-Æ÷¾ÇÇÑ ½Ç·¯Äµ½º 1 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12269#Hunt Cruel coelacanth#SG_FEEL#QUE_NOIMAGE#
+The hero of Culvert, we set a week of Hunt ^0000ffCruel coelacanth ^000000 and raise our voice! I'll give you just one week to finish this job! Termiante all of them hard mode in culvert dungeon!#
+Hunt 1 Cruel coelacanth - Appear in Culvert Dungeon Hard mode#
 
-12270#µ¹¿¬º¯ÀÌ ½Ç·¯Äµ½º ÅğÄ¡#SG_FEEL#QUE_NOIMAGE#
-¿ì¸® Ã»¼ÒºÎÀÇ ¸ğÀÓ '¹è¼ö·ÎÀÇ ¿ëÀÚµé' Àº ÀÌ¹ø ÁÖ°£À» ^0000ffµ¹¿¬º¯ÀÌ ½Ç·¯Äµ½º ^000000ÅğÄ¡ÀÇ ÁÖ°£À¸·Î Á¤ÇÏ°í ÇÑ ¸ñ¼Ò¸®·Î ¸ğÀÌ±â·Î Çß´ç! ÀÌ ÀÏÀ» Ã³¸®ÇÏ´Âµ¥¿¡´Â µü 1ÁÖÀÏÀÇ ½Ã°£À» ÁÖ°Ú´ç! ¹è¼ö·Î ´øÀüÀÇ ÇÏµå¸ğµå¿¡¼­ ³à¼®À» Ã³Ä¡ÇØ¶û!#
-µ¹¿¬º¯ÀÌ ½Ç·¯Äµ½º 1 Ã³Ä¡ - ¹è¼ö·Î ´øÀü ÇÏµå¸ğµå¿¡¼­ µîÀå#
+12270#Hunt mutation coelacanth#SG_FEEL#QUE_NOIMAGE#
+The hero of Culvert, we set a week of Hunt ^0000ffmutation coelacanth ^000000 and raise our voice! I'll give you just one week to finish this job! Termiante all of them hard mode in culvert dungeon!#
+Hunt 1 mutation coelacanth - Appear in Culvert Dungeon Hard mode#
 
-12271#¹è¼ö·Î ÀÏ¹İ 1ÀÏ ¿ë¿ª ÁøÇàÁß#SG_FEEL#QUE_NOIMAGE#
-ÀÌ¹Ì ¿ë¿ªÀ» 1È¸ ¹Ş¾Ò½À´Ï´Ù. ÀÇ·Ú¸¦ ¿Ï·á Çß´õ¶óµµ 1ÀÏÀÌ Áö³ª±âÀü¿¡´Â »õ ÀÇ·Ú¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
-1ÀÏµ¿¾È ¹è¼ö·Î ÀÏ¹İ ¿ë¿ªÀ» ¸Ã¾ÒÀ½#
+12271#In progress general culvert single day service#SG_FEEL#QUE_NOIMAGE#
+You already have got 1 requested service. Since you already have done it, you cannot get a new request for one day.#
+You are in charge of Culvert, normal for 1 day#
 
-12272#¹è¼ö·Î ÇÏµå 1ÀÏ ¿ë¿ª ÁøÇàÁß#SG_FEEL#QUE_NOIMAGE#
-ÀÌ¹Ì ¿ë¿ªÀ» 1È¸ ¹Ş¾Ò½À´Ï´Ù. ÀÇ·Ú¸¦ ¿Ï·á Çß´õ¶óµµ 1ÀÏÀÌ Áö³ª±âÀü¿¡´Â »õ ÀÇ·Ú¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
-1ÀÏµ¿¾È ¹è¼ö·Î ÇÏµå ¿ë¿ªÀ» ¸Ã¾ÒÀ½#
+12272#In progress hard culvert single day service#SG_FEEL#QUE_NOIMAGE#
+You already have got 1 requested service. Since you already have done it, you cannot get a new request for one day.#
+You are in charge of Culvert, hard for 1 day#
 
-12273#¹è¼ö·Î ÀÏ¹İ ÁÖ°£ ¿ë¿ª ÁøÇàÁß#SG_FEEL#QUE_NOIMAGE#
-ÀÌ¹Ì ¿ë¿ªÀ» 1È¸ ¹Ş¾Ò½À´Ï´Ù. ÀÇ·Ú¸¦ ¿Ï·á Çß´õ¶óµµ 7ÀÏÀÌ Áö³ª±âÀü¿¡´Â »õ ÀÇ·Ú¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
-7ÀÏµ¿¾È ¹è¼ö·Î ÀÏ¹İ ¿ë¿ªÀ» ¸Ã¾ÒÀ½#
+12273#In progress general culvert weekly service#SG_FEEL#QUE_NOIMAGE#
+You already have got 1 requested service. Since you already have done it, you cannot get a new request for 7 days.#
+You are in charge of Culvert, normal for 7 days#
 
-12274#¹è¼ö·Î ÇÏµå ÁÖ°£ ¿ë¿ª ÁøÇàÁß#SG_FEEL#QUE_NOIMAGE#
-ÀÌ¹Ì ¿ë¿ªÀ» 1È¸ ¹Ş¾Ò½À´Ï´Ù. ÀÇ·Ú¸¦ ¿Ï·á Çß´õ¶óµµ 7ÀÏÀÌ Áö³ª±âÀü¿¡´Â »õ ÀÇ·Ú¸¦ ¹ŞÀ» ¼ö ¾ø½À´Ï´Ù.#
-7ÀÏµ¿¾È ¹è¼ö·Î ÇÏµå ¿ë¿ªÀ» ¸Ã¾ÒÀ½#
+12274#In progress hard culvert weekly service#SG_FEEL#QUE_NOIMAGE#
+You already have got 1 requested service. Since you already have done it, you cannot get a new request for 7 days.#
+You are in charge of Culvert, hard for 7 days#
 
 12275#¹Ì¹¦ÇÑ ¼ö¹èÀü´Ü#SG_FEEL#QUE_NOIMAGE#
 ¼ö¹èÀü´Ü¿¡ µîÀåÇÏ´Â ÀÎ¹°ÀÇ ÈçÀûÀ» Ã£¾Æ °¡µğ¾ğ ¿ä¿ø¿¡°Ô °¡Á®°¡ º¸ÀÚ. ^990099Æ÷¸µ°ú Æ÷Æ÷¸µ^000000µéÀÌ °¡Áö°í ÀÖÀ» È®·üÀÌ ³ôÀ» °Í °°´Ù.#
