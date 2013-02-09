@@ -2077,7 +2077,7 @@ Can not be joined in the guild.#
 Guild formed#
 Create a guild name#
 Help organize guild#
-# What is the guild system
+What is the guild system#
 You must enter the name of your guild.#
 Supported at the party was rejected.#
 Select Service:#
@@ -2217,7 +2217,7 @@ Plane#
 Applied to move airships#
 >> Failure to read the target information.#
 << Notice >>#
-<< Searching... >># 
+<< Searching... >>#
 -----------#
 Navigation#
 == Search Results (%d)==#
