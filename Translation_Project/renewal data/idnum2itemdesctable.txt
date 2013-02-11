@@ -14222,6 +14222,7 @@ Applicable Job : ^777777Every Job^000000
 2444#
 HP + 10%
 Add a 4% resistance against Demi-Human monster.
+Chance of using Increase Agility when receiving phyiscal damage.
 [^000088Glorious Shoes & Glorious Muffler Equip Set^000000]
 ATK, MATK +5%. Can't be frozen.
 Increases Heal, Sanctuary, and Potion Pitcher effectiveness by 3%.
