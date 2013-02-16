@@ -61854,11 +61854,11 @@ Applicable Job : ^777777Every Job^000000
 #
 
 15032#
-...
+An armor made with animal leather used by the Jaty tribe during battle.
 MDEF + 10. Decreases damage from all monsters by 5%.
 Add a 15% resistance to the ^880000Stun^000000 and ^880000Freeze^000000 status.
 Class : ^777777Armor^000000
-Defense : ^77777772^000000
+Defense : ^7777772^000000
 Weight : ^77777750^000000
 Required Level : ^77777771^000000
 Applicable Job : ^777777Every Job Except Novice^000000
