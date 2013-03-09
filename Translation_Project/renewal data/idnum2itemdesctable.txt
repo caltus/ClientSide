@@ -6725,7 +6725,7 @@ Increase physical damage to Demi-Human by 80%.
 Increase Clashing Spiral damage by 100%,
 Increase Overbrand damage by 50%.
 [^333399Refine Rate +9 or higher1000000]
-Chance of reflecting magical and phyiscal damage, chance of casting Magic Mirror.
+Chance of reflecting magical and physical damage, chance of casting Magic Mirror.
 Type : ^777777Spear^000000 
 Attack : ^777777250^000000
 Weight : ^777777450^000000
@@ -14222,7 +14222,7 @@ Applicable Job : ^777777Every Job^000000
 2444#
 HP + 10%
 Add a 4% resistance against Demi-Human monster.
-Chance of using Increase Agility when receiving phyiscal damage.
+Chance of using Increase Agility when receiving physical damage.
 [^000088Glorious Shoes & Glorious Muffler Equip Set^000000]
 ATK, MATK +5%. Can't be frozen.
 Increases Heal, Sanctuary, and Potion Pitcher effectiveness by 3%.
@@ -14463,7 +14463,7 @@ Applicable Job : ^777777Every Job^000000
 
 2465#
 Comfortable shoes designed specifically for dancing.
-AGI + 1, ASPD + 2.
+AGI + 1, ASPD + 2%.
 Reduces the SP cost of ^008800Swing Dance^000000 by 32.
 Class : ^777777Footgear^000000
 Defense : ^77777715^000000
@@ -23051,7 +23051,7 @@ Weight : ^7777771^000000
 
 4520#
 STR + 3.
-Chance of causing Confusion on target enemy when doing magic damage.
+Chance of causing Confusion on target enemy when hit by magic damage.
 Type : ^777777Card^000000
 Compount on : ^777777Garment^000000
 Weight : ^7777771^000000
